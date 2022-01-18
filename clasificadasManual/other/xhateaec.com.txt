@@ -1,0 +1,169 @@
+## Politica
+
+**1.1 Política de privacidad** Reconocemos que su privacidad es muy importante
+y la tomamos en serio. Esta Política de privacidad describe las políticas y
+los procedimientos de Xhateaec sobre la recopilación, el uso y la divulgación
+de su información cuando utiliza el Servicio de Xhateaec. No usaremos ni
+compartiremos su información con nadie excepto como se describe en esta
+Política de Privacidad.  
+  
+
+**1.2 Recopilación y uso de información** Usamos la información que
+recopilamos para analizar cómo se usa el Servicio, diagnosticar problemas
+técnicos o de servicio, mantener la seguridad, personalizar el contenido,
+recordar información para ayudarlo a acceder de manera eficiente a su cuenta,
+monitorear métricas agregadas como el número total de visitantes, tráfico y
+patrones demográficos y rastrear el Contenido del Usuario y los usuarios según
+sea necesario para cumplir con la Ley de Derechos de Autor del Milenio Digital
+y otras leyes aplicables.  
+  
+
+**1.3 Información proporcionada por el usuario:** Usted nos proporciona
+información sobre usted, como su nombre y dirección de correo electrónico, si
+se registra para obtener una cuenta de miembro en el Servicio. Su nombre y
+otra información que elija agregar a su perfil estarán disponibles para su
+visualización pública en el Servicio. Podemos utilizar su dirección de correo
+electrónico para enviarle avisos relacionados con el Servicio. Puede controlar
+la recepción de ciertos mensajes relacionados con el Servicio en su página de
+Configuración. También podemos utilizar su información de contacto para
+enviarle mensajes de marketing. Si no desea recibir dichos mensajes, puede
+optar por no recibirlos siguiendo las instrucciones del mensaje. Si se
+comunica con nosotros por correo electrónico, podemos conservar el contenido
+de sus mensajes de correo electrónico, su dirección de correo electrónico y
+nuestras respuestas.  
+  
+También nos proporciona información en el Contenido de usuario que publica en
+el Servicio. Sus publicaciones y otras contribuciones en el Servicio, y los
+metadatos sobre ellas (como cuando las publicó), se pueden ver públicamente en
+el Servicio, junto con su nombre (a menos que el Servicio le permita publicar
+de forma anónima). Esta información puede ser buscada por motores de búsqueda
+y republicada en otra parte de la Web de acuerdo con nuestros Términos de
+Servicio.  
+  
+Si opta por utilizar nuestro servicio de invitación para invitar a un amigo al
+Servicio, le pediremos la dirección de correo electrónico de esa persona y
+automáticamente le enviaremos una invitación por correo electrónico.
+Almacenamos esta información para enviar este correo electrónico, para
+registrar a su amigo si se acepta su invitación y para realizar un seguimiento
+del éxito de nuestro servicio de invitación.  
+  
+cookies: Cuando visita el Servicio, podemos enviar una o más "cookies"
+(pequeños archivos de datos) a su computadora para identificar de manera única
+su navegador y permitir que Xhateaec lo ayude a iniciar sesión más rápido y
+mejorar su navegación por el sitio. Una cookie puede transmitir información
+anónima sobre cómo navega por el Servicio, pero no recopila información
+personal sobre usted. Una cookie persistente permanece en su computadora
+después de que cierra su navegador para que pueda ser utilizada por su
+navegador en visitas posteriores al Servicio. Las cookies persistentes se
+pueden eliminar siguiendo las instrucciones de su navegador web. Una cookie de
+sesión es temporal y desaparece después de cerrar su navegador. Puede
+restablecer su navegador web para rechazar todas las cookies o para indicar
+cuándo se envía una cookie. Sin embargo,  
+  
+
+**1.4 Archivos de registro:** La información del archivo de registro es
+reportada automáticamente por su navegador cada vez que accede a una página
+web. Cuando utiliza el Servicio, nuestros servidores registran automáticamente
+cierta información que su navegador web envía cada vez que visita cualquier
+sitio web. Estos registros del servidor pueden incluir información como su
+solicitud web, dirección de Protocolo de Internet ("IP"), tipo de navegador,
+páginas de referencia / salida y URL, número de clics, nombres de dominio,
+páginas de destino, páginas visitadas y otra información similar.  
+  
+
+**1.5 Servicios de terceros:** Podemos utilizar Google Analytics o Mixpanel
+para ayudar a comprender el uso del Servicio. Google Analytics y Mixpanel
+recopilan la información enviada por su navegador como parte de una solicitud
+de página web, incluidas las cookies y su dirección IP. Google Analytics y
+Mixpanel también reciben esta información y su uso se rige por sus Políticas
+de Privacidad.  
+  
+
+**1.6 Cómo compartimos su información**
+
+**Información de identificación personal:** Podemos compartir su información
+de identificación personal con terceros con el fin de brindarle el Servicio.
+Si hacemos esto, el uso de su información por parte de dichos terceros estará
+sujeto a esta Política de privacidad. Podemos almacenar información personal
+en ubicaciones fuera del control directo de Xhateaec (por ejemplo, en
+servidores o bases de datos ubicados junto con proveedores de alojamiento).  
+  
+Podemos compartir o divulgar su información con su consentimiento, por
+ejemplo, si elige iniciar sesión en el Servicio a través de un servicio de
+terceros. No podemos controlar el uso de su información por parte de terceros.  
+  
+Xhateaec puede divulgar su información personal si así lo requiere la ley o
+una citación o si creemos que es razonablemente necesario para cumplir con una
+ley, reglamento o solicitud legal; para proteger la seguridad de cualquier
+persona; para abordar problemas técnicos, de seguridad o de fraude; o para
+proteger los derechos o la propiedad de Xhateaec.  
+  
+
+**1.7 Información de identificación no personal:** Podemos compartir
+información de identificación no personal (como datos de uso anónimos, páginas
+de referencia / salida y URL, tipos de plataforma, número de clics, etc.) con
+terceros interesados ​​para ayudarlos a comprender los patrones de uso de
+ciertos servicios de Xhateaec.  
+  
+Xhateaec puede permitir que los servidores de anuncios de terceros o las redes
+de anuncios publiquen anuncios en el Servicio. Estos servidores de anuncios de
+terceros o redes de anuncios utilizan tecnología para enviar, directamente a
+su navegador, los anuncios y enlaces que aparecen en Xhateaec. Reciben
+automáticamente su dirección IP cuando esto sucede. También pueden utilizar
+otras tecnologías (como cookies, JavaScript o balizas web) para medir la
+eficacia de sus anuncios y personalizar el contenido publicitario. Xhateaec no
+proporciona ninguna información de identificación personal a estos servidores
+de anuncios de terceros o redes de anuncios sin su consentimiento. Sin
+embargo, tenga en cuenta que si un anunciante le pide a Xhateaec que muestre
+un anuncio a una audiencia determinada y usted responde a ese anuncio, el
+anunciante o el servidor de anuncios pueden concluir que usted se ajusta a la
+descripción de la audiencia a la que intentan llegar. La Política de
+privacidad de Xhateaec no se aplica y no podemos controlar las actividades de
+los anunciantes externos. Consulte las respectivas políticas de privacidad de
+dichos anunciantes para obtener más información.  
+  
+
+**1.8 Cómo protegemos su información** Utilizamos medidas de seguridad
+físicas, administrativas y técnicas comercialmente razonables para preservar
+la integridad y seguridad de su información personal. Sin embargo, no podemos
+garantizar ni garantizar la seguridad de ninguna información que transmita a
+Xhateaec ni garantizar que no se pueda acceder, divulgar, alterar o destruir
+su información en el Servicio por incumplimiento de cualquiera de nuestras
+salvaguardas físicas, técnicas o de gestión.  
+  
+
+**1.9 Sus opciones sobre su información** Por supuesto, puede negarse a enviar
+información de identificación personal a través del Servicio, en cuyo caso es
+posible que Sngine no pueda brindarle ciertos servicios. Puede actualizar o
+corregir la información de su cuenta y las preferencias de correo electrónico
+en cualquier momento iniciando sesión en su cuenta.  
+  
+
+**1.10 Enlaces a otros sitios web** No somos responsables de las prácticas
+empleadas por los sitios web vinculados hacia o desde el Servicio, ni de la
+información o el contenido que contienen. Recuerde que cuando utiliza un
+enlace para ir del Servicio a otro sitio web, nuestra Política de privacidad
+deja de estar en vigor. Su navegación e interacción en cualquier otro sitio
+web, incluidos aquellos que tienen un enlace en nuestro sitio web, están
+sujetos a las propias reglas y políticas de ese sitio web.  
+  
+
+**1.11 Eliminar Cuentas** Tenga en Cuenta que ninguna cuenta será eliminada
+desde el perfil de los usuarios, si usted se registra es porque ya leyó antes
+nuestros terminos y politicas. Con el fin de proteger a nuestros usuarios en
+casos de que hayan infraciones o acosos desde cuentas se verificará y
+revisará. Si usted quiere elinimiar su cuenta presenta los movitos a nuestro
+equipo y en un plazo de 90 días eliminaremos el perfil.  
+  
+
+**1.12 Cambios a nuestra política de privacidad** Si cambiamos nuestras
+políticas y procedimientos de privacidad, publicaremos esos cambios en esta
+página para mantenerlo al tanto de la información que recopilamos, cómo la
+usamos y bajo qué circunstancias podemos divulgarla. Los cambios a esta
+Política de privacidad entran en vigencia cuando se publican en esta página.
+
+**1.13 Reportes de Publicaciones** Los usuarios pueden reportar las
+publicaciones que tengan infaciones y presenten molestias como acoso,
+pornografia,etc, dichos contenidos NO están permitidos.  
+  
+Última actualización: 23 de marzo de 2021

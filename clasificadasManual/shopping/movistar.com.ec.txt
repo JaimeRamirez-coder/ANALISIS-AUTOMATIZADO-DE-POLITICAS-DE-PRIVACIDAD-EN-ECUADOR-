@@ -1,0 +1,912 @@
+Fecha de recoleccion: 2021-08-26
+ 
+
+ 
+
+ 
+
+Política Global de Privacidad 
+ 
+
+Norma Corporativa  
+
+Aprobada por el Consejo de Administración de Telefónica S.A. 
+
+Telefónica SA.  
+
+3ª Edición- septiembre 2018 
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+CONTROL DE CAMBIOS 
+
+VERSIÓN 
+
+CAMBIOS REALIZADOS
+
+Aprobado por 
+
+1.0  
+(2013) 
+
+2.0 
+(2015) 
+
+3.0 
+(2018) 
+
+Primera  versión    “Política  de  Privacidad 
+del Grupo Telefónica” 
+
+Consejo de 
+Administración 
+
+Actualizada y alineada con el nuevo 
+programa de compañía “Elegimos todo_” 
+(diciembre 2015). 
+
+Consejo de 
+Administración 
+
+Revisión  completa  de  la  Política  alineada 
+con  la  Estrategia  de  la  Compañía  y  al 
+Reglamento  General  de  Protección  de 
+Datos de la Unión Europea (GDPR) 
+
+Consejo de 
+Administración 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 3  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+ 
+
+ 
+ 
+
+Índice de Contenido 
+
+1  
+
+Introducción y objetivos ....................................................................................................... 5 
+
+2   Ámbito de aplicación .............................................................................................................. 6 
+
+3   Principios .................................................................................................................................. 6 
+
+3.1. Principio de licitud ................................................................................................................... 7 
+
+3.2. Principio de transparencia ..................................................................................................... 7 
+
+3.3. Principio de compromiso con los derechos del interesado ............................................ 8 
+
+3.4. Principio de limitación del plazo de conservación ........................................................... 8 
+
+3.5. Principio de seguridad del tratamiento .............................................................................. 9 
+
+4   Condiciones para el consentimiento .................................................................................. 9 
+
+5   Transferencia Internacional de datos ................................................................................ 9 
+
+6   Privacidad en menores de edad ......................................................................................... 10 
+
+7   Privacidad en la cadena de suministro ............................................................................ 10 
+
+8   Privacidad por diseño........................................................................................................... 10 
+
+9   Requerimientos de autoridades competentes ............................................................... 10 
+
+1 0   Organización y Responsabilidades ................................................................................... 11 
+
+10.1. Delegados de Protección de Datos ................................................................................. 11 
+
+10.1.1  DPO del Grupo Telefónica.............................................................................................. 11 
+
+10.1.2  DPO Local.......................................................................................................................... 12 
+
+10.2. Estructura de relacionamiento ........................................................................................ 12 
+
+1 1   Formación y concienciación ............................................................................................... 13 
+
+1 2   Seguimiento y control ......................................................................................................... 13 
+
+1 3   Auditoría Interna.  ................................................................................................................. 14 
+
+1 4   Revisión y modificaciones .................................................................................................. 14 
+
+1 5   Entrada en vigor y aplicación ............................................................................................. 14 
+
+1 6   Glosario de términos ............................................................................................................ 15 
+
+ 
+
+ 
+ 
+
+ 
+
+ 4  
+
+ 
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+Introducción y objetivos 
+
+las  redes  y  servicios  de 
+
+El  uso  universal  de 
+las  comunicaciones  electrónicas, 
+especialmente de Internet, y sus funcionalidades, ha modificado las relaciones sociales, 
+comerciales y la capacidad de expresión de las sociedades, además de la cantidad y la 
+naturaleza  de  información  a  la  que  tanto  ciudadanos  como  compañías  tienen  un  fácil 
+acceso.  Como  resultado  de  lo  anterior,  cada  vez  en  mayor  medida  se  tratan  datos  de 
+carácter personal, tanto con carácter general, para múltiples actividades de la vida diaria 
+personal o profesional, como, de una manera más específica, en el ámbito de la prestación 
+directa a clientes y/o usuarios de servicios de todo tipo, siendo especialmente relevantes 
+a estos efectos los servicios de comunicaciones. 
+
+Telefónica, proveedor de este tipo de servicios, cree firmemente que el adecuado acceso 
+y  tratamiento  de  esta  importante  cantidad  de  datos  supone  una  gran  oportunidad  de 
+enriquecer la vida de los ciudadanos y de contribuir al desarrollo de las sociedades.  
+
+Telefónica respeta los derechos y las libertades fundamentales de las personas, entre los 
+que  se  encuentra  el  derecho  fundamental  a  la  protección  de  los  datos  de  carácter 
+personal. Los Principios de Negocio Responsable, código ético del Grupo, contemplan la 
+necesidad de preservar este derecho fundamental y, en ese ámbito, establecen pautas 
+comunes de comportamiento a todas las empresas que forman parte del mismo. 
+
+Consciente de la importancia de merecer la confianza de sus clientes y/o usuarios y, con 
+carácter general, de sus “stakeholders”, garantizándoles el control y el valor de los datos 
+personales  que  son  objeto  de  tratamiento  por  Telefónica  (resultando  por  ello 
+“Interesados”  en  el  sentido  definido  por  la  presente  Política),  la  presente  Política 
+Corporativa de Privacidad de Telefónica nace con el objetivo de fortalecer el compromiso 
+del Grupo con el derecho a la privacidad de todas aquellas personas a cuyos datos tiene 
+acceso Telefónica, directa o indirectamente, en relación con las mismas. 
+
+Así,  la  presente  Política  establece  las  directrices  generales  que  Telefónica,  como 
+compañía de vanguardia en el sector en el que opera y en el desarrollo de estándares de 
+las  que  se  relaciona,  debe 
+confianza  en  sus  relaciones  con 
+progresivamente implementar, en atención, no solamente al necesario cumplimiento de 
+los  ordenamientos  jurídicos  vigentes  en  cada  jurisdicción,  sino  también  a  estándares 
+homogéneos y uniformes que configuren un planteamiento común y general a todo el 
+Grupo en materia de privacidad. 
+
+las  personas  con 
+
+A efectos aclaratorios, dichas directrices generales deben ser objeto de desarrollo ulterior 
+en compromisos más específicos debidamente pautados, ya sean generales, o por cada 
+una de las compañías o grupos de compañías que formen parte del Grupo, que consideren 
+las diferentes situaciones de partida y, en relación con las mismas, las mayores o menores 
+dificultades, previstas o previsibles, en cuanto a la implementación de acciones concretas 
+que  den  carta  de  naturaleza  a  la  mayor  y  mejor  observancia  de  las  directrices  antes 
+mencionadas.  
+
+ 
+
+ 5  
+
+ 
+ 
+
+ 
+
+Política Global de Privacidad 
+
+ 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+A estos efectos, resulta esencial el modelo de gobierno de la privacidad establecido en el 
+apartado  9  de  la  presente  Política,  que  asegurará  el  más  rápido,  efectivo  y  eficiente 
+despliegue de las acciones que instrumenten el cumplimiento de las directrices en ella 
+establecidas.     
+
+A  efectos  aclaratorios,  la  presente  Política  se  refiere  a  la  privacidad  de  los  datos  de 
+personas naturales. Telefónica es también respetuosa con la protección de la información 
+y los datos de las personas jurídicas y, en relación con los mismos, dará cumplimiento a 
+lo previsto en la legislación nacional que resulte de aplicación. 
+
+2  Ámbito de aplicación 
+
+La  presente  Política  tiene  el  carácter  de  Política  corporativa  y,  por  lo  tanto,  es  de 
+aplicación a todas las sociedades del Grupo Telefónica. 
+
+Telefónica,  S.A.,  en  su  condición  de  sociedad  cabecera  del  Grupo,  es  la  responsable  de 
+establecer  las  bases  y  los  mecanismos  necesarios  para  una  adecuada  y  eficiente 
+coordinación  entre  esta  Sociedad  y  las  demás  sociedades  que  integran  su  Grupo,  los 
+cuales, como se ha indicado en el apartado 1 anterior, serán objeto de ulterior desarrollo 
+mediante instrumentos que gobiernen el progresivo cumplimiento de compromisos más 
+específicos. 
+
+Asimismo, todo ello sin perjuicio ni merma alguna de la capacidad de decisión autónoma 
+que corresponde a cada una de dichas sociedades, de conformidad con el interés social 
+propio de cada una de ellas y de los deberes fiduciarios que los miembros de sus órganos 
+de administración mantienen hacia todos sus accionistas. 
+
+3  Principios  
+
+En el tratamiento de los datos personales, el Grupo Telefónica adoptará acciones destinadas 
+a preservar los siguientes principios básicos:  
+
+  Principio de licitud 
+  Principio de transparencia  
+  Principio de compromiso con los derechos de los interesados 
+  Principio de limitación de plazo de conservación 
+  Principio de seguridad 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 6  
+
+ 
+ 
+
+ 
+
+Política Global de Privacidad 
+
+ 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+3.1. Principio de licitud  
+
+El Grupo Telefónica adoptará las acciones necesarias para garantizar que los datos personales 
+que recabe, almacene y procese de los Interesados sean tratados de manera lícita y leal. 
+
+El  tratamiento  deberá  cumplir  con  las  obligaciones  que  resulten  del  ordenamiento  jurídico 
+aplicable a ese tratamiento atendiendo a sus características y alcance geográfico, y el resto 
+de  disposiciones  incluidas  en  esta  Política  Corporativa.  En  todo  caso,  el  Grupo  Telefónica 
+observará con particular atención: 
+
+ 
+
+ 
+
+la  obtención  del  consentimiento  del  interesado  o,  en  su  caso,  la  existencia  de 
+cualquier otra condición de licitud de tratamiento prevista en la legislación aplicable. 
+ 
+la necesidad del tratamiento y la finalidad legítima del mismo. Los datos personales 
+serán  recogidos  con  fines  legítimos,  y  no  serán  tratados  ulteriormente  de  manera 
+incompatible con dichos fines. 
+
+3.2. Principio de transparencia 
+
+El Grupo Telefónica adoptará las medidas necesarias para garantizar que se les facilite a los 
+Interesados  información  fácilmente  accesible  e  inteligible  sobre  los  datos  personales  que 
+recabe, almacene y procese. 
+
+Entre otras medidas, se proveerá a todos los Interesados la siguiente información:  
+
+a)  Tipo de información que se recoge 
+
+En  Telefónica  se  recopilan  distintos  tipos  de  datos  personales,  ya  sea  directamente 
+porque  se  facilita  la  información  (tales  como,  a  título  de  ejemplo,  nombre,  apellidos, 
+dirección, cuenta bancaria, preferencias personales, etc.) o indirectamente a través del 
+uso que se hace de nuestros servicios (datos de localización, datos de llamadas, datos de 
+consumo de contenidos, etc.) o de fuentes externas legítimas. 
+
+b)  Cómo se recoge la información 
+
+Se recoge esta información de diferentes formas y a través de diferentes canales.  
+
+Se informará a todos los Interesados sobre cómo se recopilan sus datos cuando acceden 
+a los productos y/o servicios y/o canales de comunicación. 
+
+c)  Finalidad de la recogida de la información 
+
+Los datos del Interesado pueden ser utilizados para diferentes finalidades en función del 
+tipo de información.  
+
+Debe informarse al Interesado sobre la finalidad con la que se utilizarán sus datos,  
+
+d)  Conservación de los datos personales 
+
+ 
+
+ 7  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+Se informará al Interesado del tiempo por el cual se conservan sus datos personales o los 
+criterios  que  permitan  determinarlo,  la  forma  de  suprimirlos,  cuando  proceda,  y  qué 
+sucede cuando los usuarios eliminan sus cuentas. 
+
+En  todo  caso,  Telefónica  se  reserva  el  derecho  de  usar  información  recabada  de  los 
+Interesados  de  forma  anonimizada,  de  manera  que  no  permita  la  identificación  del 
+Interesado.  
+
+e)  Cesión de la información 
+
+Se  informará  a  los  Interesados  de  la  categoría  de  la  información  se  va  a  ceder,  los 
+destinatarios o categorías de destinatarios y la finalidad de la cesión.   
+
+3.3. Principio de compromiso con los derechos del 
+
+ 
+
+interesado 
+
+Telefónica debe ofrecer a los Interesados herramientas y/o procedimientos claros y sencillos 
+para  garantizar  y  asegurar  el  correcto  ejercicio  de  los  derechos  del  Interesado  según  el 
+ordenamiento  jurídico  aplicable,  tales  como  el  derecho  de  acceso,  de  rectificación,  de 
+supresión,  de  oposición,  el  derecho  a  retirar  el  consentimiento  en  cualquier  momento  y  el 
+derecho a presentar reclamaciones. 
+
+El Grupo Telefónica deberá facilitar el ejercicio de  estos derechos en los plazos y términos 
+previstos  en  el  correspondiente  ordenamiento  jurídico  y  propio  del  país  y/o  región 
+correspondiente. 
+
+El Grupo Telefónica pone a disposición de su personal, clientes, contratistas o cualquier otro 
+Interesado  titular  de  datos  personales  incluidos  en  las  bases  de  datos  y/o  sistemas  de 
+información propiedad de las entidades del Grupo Telefónica, canales de comunicación para 
+recibir y atender peticiones, consultas y reclamaciones por parte de sus titulares de manera 
+que éstos puedan ejercer los derechos que les asistan.  
+
+El  Grupo  Telefónica  se  compromete  a  dar  respuesta  a  las  peticiones,  consultas  y 
+reclamaciones  a  la  mayor  celeridad  dentro  de  los  plazos  determinados  por  la  normativa 
+aplicable en cada momento. 
+
+3.4. Principio de limitación del plazo de conservación 
+
+El Grupo Telefónica no conservará los datos personales del Interesado más allá de los plazos 
+en los que pueda estar justificado de acuerdo con la legislación aplicable de cada jurisdicción. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 8  
+
+ 
+ 
+
+ 
+
+Política Global de Privacidad 
+
+ 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+3.5. Principio de seguridad del tratamiento 
+
+El Grupo Telefónica, en cualquiera de las fases del ciclo del tratamiento, aplicará las medidas 
+técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado al riesgo 
+al que los datos de carácter personal puedan estar expuestos y en todo caso, de conformidad 
+con las medidas de seguridad establecidas en el ordenamiento jurídico vigente en cada uno 
+de los países y/o regiones en los que opera y la normativa interna de Seguridad. Si en algún 
+momento  esta  seguridad  se  ve  comprometida,  Telefónica  actuará  de  forma  rápida  y 
+responsable. 
+
+El Grupo Telefónica asumirá una especial diligencia en el análisis de aquellos tratamientos que 
+puedan implicar un alto riesgo para los derechos y libertades de los interesados. 
+
+Asimismo, Telefónica protegerá en todo momento el carácter confidencial de los datos de los 
+Interesados,  de  conformidad  con  la  normativa  interna  de  clasificación  y  tratamiento  de  la 
+Información. 
+
+4  Condiciones para el consentimiento 
+
+Telefónica  facilitará  a  los  interesados  una  información  clara  y  transparente  sobre  el  uso  y 
+almacenamiento que hace de sus datos personales, de forma que éstos puedan consentir de 
+forma  libre,  específica,  informada  e  inequívoca  sobre  el  tratamiento  que  de  los  mismos  se 
+haya de efectuar. 
+
+5  Transferencia Internacional de datos 
+
+La  información  entregada  por  los  Interesados  puede  ser  transferida  internacionalmente  a 
+empresas  del  Grupo  y  a  terceros  para  su  tratamiento  de  acuerdo  con  los  requisitos  que 
+establezca la legislación aplicable en cada país y/o región, y a los acuerdos internacionales, 
+donde operen las distintas entidades del Grupo Telefónica. 
+
+A este respecto, el Grupo Telefónica, ya sea en calidad de Responsable del tratamiento y/o 
+de  Encargado  del  tratamiento,  protegerá 
+las 
+transferencias  internacionales  de  datos  personales  a  terceros  países,  observando  en  todo 
+momento los estándares de seguridad del Grupo y la legislación aplicable a la materia. 
+
+los  derechos  de  sus  Interesados  en 
+
+Asimismo,  Telefónica  prevéla  aplicación  de  Normas  Corporativas  Vinculantes  (Binding 
+Corporate  Rules  o  BCR)  que  ofrezcan  garantías  de  protección  adecuadas  para  realizar 
+transferencias entre las empresas del Grupo y que serían de aplicación allí donde la normativa 
+lo contemple. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 9  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+6  Privacidad en menores de edad 
+
+El Grupo Telefónica manifiesta su compromiso con el derecho a la privacidad de los menores, 
+la protección de su información personal, y el fomento del buen uso de la tecnología. 
+
+7  Privacidad en la cadena de suministro 
+
+El  Grupo  Telefónica,  como  Responsable  del  tratamiento,  asegurará  contractualmente  que 
+cualquier proveedor que actúe bajo su autoridad y tenga acceso a datos personales de los 
+Interesados de su titularidad, sólo pueda tratar dichos datos siguiendo sus instrucciones y, en 
+todo  caso,  de  forma  segura  mediante  la  adopción  de  las  medidas  de  seguridad  técnicas  y 
+organizativas  necesarias  y  el  cumplimiento  íntegro  del  ordenamiento  jurídico  y  normativa 
+interna aplicable. 
+
+Así,  cada  Responsable  del  tratamiento  priorizará  la  elección  de  aquellos  proveedores  que 
+actúen  como  Encargados  de  tratamiento  cuando  estos  garanticen  el  cumplimiento  de  la 
+legislación  de  protección  de  datos  aplicable  al  tratamiento  encomendado  y,  además,  esta 
+Política Corporativa. 
+
+8  Privacidad por diseño 
+
+Telefónica se acoge a los principios de privacidad por diseño y responsabilidad activa en el 
+desarrollo de sus productos y servicios para que, desde su concepción inicial, incorporen los 
+requisitos de protección de datos que sean aplicables. 
+
+9  Requerimientos 
+competentes 
+
+de 
+
+autoridades 
+
+Telefónica  está  sujeta  a  los  entornos  jurídicos  en  los  que  opera,  por  lo  que  debe,  en 
+circunstancias excepcionales y siempre expresamente previstas en las leyes nacionales, dar 
+respuesta  a  requerimientos  de  las  autoridades  competentes  relativos  a  determinada 
+información sobre las comunicaciones de sus clientes y/o usuarios. 
+
+Telefónica implementa un procedimiento global estricto que garantiza tanto el cumplimiento 
+de  nuestras  obligaciones  en  materia  de  colaboración  con  la  administración  de  Justicia  y 
+autoridades  competentes   como  la protección de los  derechos de Privacidad  y Libertad de 
+Expresión de los afectados. 
+
+Telefónica publicará periódicamente información sobre el número y tipo de peticiones que 
+recibe por parte de autoridades competentes en los países en los que opera. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 10  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+10 Organización y Responsabilidades 
+
+Para  garantizar  los  derechos,  en  materia  de  protección  de  datos,  de  los  ciudadanos  y 
+empresas  con  los  que  el  Grupo  Telefónica  se  relaciona,  así  como  el  cumplimiento  de  los 
+ordenamientos jurídicos aplicables y de esta Política Corporativa de Privacidad, es importante 
+que cada empresa  del Grupo dedique  los recursos  adecuados a la implementación de esta 
+política. El Grupo Telefónica se ha dotado de la organización correspondiente, cuya estructura 
+básica se detalla a continuación: 
+
+10.1. Delegados de Protección de Datos 
+
+Las diferentes entidades y sociedades del Grupo Telefónica deben designar un Delegado de 
+Protección de Datos (“Data Protection Officer” o, en adelante, “DPO”).  
+
+Cada  DPO  será  designado  atendiendo  a  sus  cualidades  profesionales,  conocimientos  en 
+materia de protección de datos y de la práctica de esta materia, y conocimientos de la unidad 
+de negocio correspondiente y del Grupo en su conjunto. 
+
+El Grupo Telefónica considera apropiado establecer dos niveles de DPO, global y local, en aras 
+a  una  mejor  coordinación  y  observancia  del  cumplimiento  de  esta  Política  Corporativa  y 
+demás normativa legal e interna aplicable. 
+
+10.1.1 DPO del Grupo Telefónica 
+
+El DPO del Grupo Telefónica es el responsable corporativo en materia de protección de datos 
+personales del Grupo Telefónica. El DPO del Grupo Telefónica reporta directamente al Consejo 
+de Administración de Telefónica, S.A.  
+
+Las funciones principales del DPO del Grupo Telefónica son:  
+
+  Coordinación global de la protección de datos en el Grupo Telefónica, y definición del 
+
+programa global de cumplimiento en materia de privacidad. 
+ 
+
+  Supervisión del cumplimiento de la normativa vigente sobre protección de datos. 
+ 
+ 
+
+Interlocución y  asesoramiento en materia de tratamiento de datos personales  a la 
+organización de Telefónica, S.A. y a los DPO locales del Grupo, en su caso. 
+
+ 
+
+Implementación y aplicación de las políticas de privacidad y protección de datos, y 
+valoración del impacto de nuevos proyectos relacionados. 
+
+  Cumplimiento de las  funciones que, con carácter  general, puedan atribuírsele en la 
+normativa que resulte de aplicación (por ejemplo, las establecidas en el Reglamento 
+de Protección de Datos de Carácter Personal, de la Unión Europea). 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 11  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+El DPO del Grupo Telefónica lidera y coordina la Oficina Global DPO, que desarrolla un doble 
+rol de, por un lado, asunción de la responsabilidad directa sobre el programa de cumplimiento 
+en materia de privacidad en el ámbito global y corporativo y, por otro lado, aseguramiento de 
+la implementación del programa por parte de todo el Grupo Telefónica. 
+
+10.1.2  DPO Local 
+
+El  DPO  Local (o responsable de privacidad  local,  con independencia de la terminología que 
+adopte  en  observancia  de  la  normativa  que  le  resulte  de  aplicación)  es  el  responsable  en 
+materia de protección de datos personales en una o varias Compañías del Grupo Telefónica, 
+radicadas en un país/región determinado o con un área de actividad específica.  
+
+Las principales funciones del DPO Local son:  
+
+ámbito de responsabilidad. 
+ 
+
+  Asesoramiento en materia de protección de datos a las unidades de negocio de su 
+
+ 
+
+ 
+
+  Supervisión del cumplimiento del ordenamiento jurídico aplicable y de esta Política de 
+
+Privacidad en su correspondiente ámbito de responsabilidad. 
+ 
+Interlocución  y  coordinación  con  el  DPO  del  Grupo  Telefónica,  a  efectos  de 
+implementación del programa global de cumplimiento en materia de privacidad. 
+
+Interlocución con los Interesados y autoridad/es de control de su respectivo ámbito 
+de actividad.  
+ 
+
+  Cumplimiento de las  funciones que, con carácter  general, puedan atribuírsele en la 
+normativa que resulte de aplicación (por ejemplo, las establecidas en el Reglamento 
+de Protección de Datos de Carácter Personal, de la Unión Europea). 
+
+10.2. Estructura de relacionamiento 
+
+Sin perjuicio de las funciones y responsabilidades del DPO del Grupo Telefónica y de los DPOs 
+locales, el Grupo Telefónica, en aras a la mejor implementación del programa de cumplimiento 
+en  materia  de  privacidad,  estima  conveniente 
+la  creación  de  una  estructura  de 
+relacionamiento,  con  la  finalidad  de  dar  soporte,  coordinar,  asesorar  y  proponer  líneas  de 
+actuación en relación con dicho programa y, en general, con el cumplimiento de la normativa 
+legal de protección de datos. 
+
+En  particular,  el  Grupo  Telefónica  considera  apropiado  establecer  los  siguientes  ejes  de 
+relacionamiento (a través de interacciones habituales y, en particular, de los Comités que se 
+establezcan al efecto): 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 12  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+i. 
+
+ii. 
+
+iii. 
+
+Relacionamiento  transversal:  parte  de  la  premisa  de  la  existencia  de  áreas 
+globales del Grupo Telefónica que resultan esenciales, por su ámbito de actividad, 
+para el buen fin del programa de cumplimiento en materia de privacidad, y que, 
+por  esa  razón,  deben  mantener  una  relación  permanente  con  la  Oficina  Global 
+DPO;  en  este  grupo  se  incluyen,  entre  otras,  las  siguientes  áreas:  Seguridad, 
+Secretaría  General/Servicios  Jurídicos,  Regulación  y  Asuntos  Institucionales, 
+Tecnología, Chief Data Officer, Cumplimiento, Ética Corporativa y Sostenibilidad, 
+y Auditoría Interna. 
+
+Relacionamiento  de  negocio:  en  última  instancia,  las  áreas  de  negocio  son  las 
+encargadas de la implementación del programa de cumplimiento en materia de 
+privacidad,  por  lo  que  su  propia  normativa  interna  y  sus  procesos  de  negocio 
+deben  tomar  en  consideración  en  todo  momento  dicho  programa;  con  ese 
+objetivo, se designarán, tanto en Telefónica, S.A. como en aquellas unidades de 
+negocio en las que se estime oportuno, interfaces que garanticen la interacción 
+con la Oficina Global DPO o con el DPO Local, respectivamente.  
+
+Relacionamiento  entre  unidades  de  negocio:  bajo  la  coordinación  de  la  Oficina 
+Global  DPO,  se  asegurará  la  interacción  coordinada  con  los  DPOs  Locales,  a 
+efectos del seguimiento del programa de cumplimiento en materia de privacidad, 
+y de la revisión de problemáticas transversales al conjunto de las organizaciones. 
+
+ 
+
+11 Formación y concienciación 
+
+El  Grupo  Telefónica  es  consciente  de  que  la  progresiva  mejora  de  los  estándares  de 
+observancia de la normativa legal aplicable y de la normativa interna del Grupo Telefónica en 
+materia de privacidad y protección de datos personales, pasa por la implementación efectiva 
+de  una  cultura  de  conocimiento  por  parte  de  sus  empleados  y  de  los  intervinientes  en  la 
+cadena de suministro.  
+
+A  su  vez,  la  implementación  de  dicha  cultura  sólo  puede  conseguirse  a  través  de  las 
+correspondientes  iniciativas  de  formación  y  concienciación,  que  el  Grupo  Telefónica  se 
+compromete a desarrollar, en el marco de sus planes integrales de formación y comunicación, 
+de  forma  continuada,  de  forma  prioritaria  para  sus  empleados  y,  en  la  medida  de  sus 
+posibilidades, para los terceros que interactúen con el mismo. 
+
+12 Seguimiento y control 
+
+El  Grupo  Telefónica  y  cada  compañía  perteneciente  al  mismo,  en  su  compromiso  de 
+supervisión  y  mejora  continua,  somete  de  forma  periódica  sus  tratamientos  de  datos 
+personales  a  controles  y/o  auditorías  internas  o  externas  con  la  finalidad  de  verificar  el 
+correcto cumplimiento la normativa legal aplicable a cada entidad, así como de esta Política 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 13  
+
+ 
+ 
+
+ 
+
+Política Global de Privacidad 
+
+ 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+ 
+Corporativa,  y  las  normas  y  procedimientos  que  la  desarrollen,  determinando  grados  de 
+cumplimiento y recomendando medidas correctoras.  
+
+En  particular,  la  presente  Política  podrá  ser  objeto  de  desarrollo  por  una  normativa  que 
+establezca  los  mecanismos  necesarios  para  la  supervisión  y  control  de  su  cumplimiento  y 
+control. 
+
+En  aquellos  tratamientos  en  los  que  el  Grupo  Telefónica  figure  como  Responsable  de 
+Tratamiento podrá exigir, mediante contrato, a los Encargados de Tratamiento con los que 
+trabaje, mecanismos de auditoría o certificación con el fin de asegurarse que éstos ofrecen 
+garantías suficientes para llevar a cabo sus operaciones de tratamiento.  
+
+13 Auditoría Interna.  
+
+La observancia y cumplimiento de la presente Norma por las distintas áreas de la Compañía 
+será  objeto  de  revisión  y  supervisión  por  parte  del  área  de  Auditoría  Interna,  quien  estará 
+facultada  para  realizar  las  supervisiones  muestrales  de  los  controles  aquí  establecidos 
+siempre que lo considere conveniente. 
+
+14 Revisión y modificaciones 
+
+Esta  política  corporativa  será  revisada  periódicamente,  y  tomando  en  consideración  los 
+cambios organizativos, legales o de negocio que se produzcan en cada momento, con el fin de 
+mantener  su  pertinencia,  suficiencia  y  eficacia  y,  en  su  defecto,  con  la  periodicidad 
+establecida  en  la  “Normativa  Corporativa  para  la  Elaboración  y  Organización  del  Marco 
+Normativo del Grupo Telefónica. ”. 
+
+Las  revisiones  de  la  Política,  en  la  medida  en  que  pudieran  afectar  a  las  condiciones  de 
+privacidad comprometidas por el Grupo Telefónica frente a los Interesados, serán objeto de la 
+oportuna difusión y comunicación. 
+
+15 Entrada en vigor y aplicación 
+
+Esta  Política  Corporativa  entrará  en  vigor  el  día  de  su  aprobación  por  el  Consejo  de 
+Administración . 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 14  
+
+ 
+
+ 
+
+Política Global de Privacidad 
+
+Dirección Global de Ética Corporativa y Sostenibilidad – Data Protection Officer Global 
+
+16 Glosario de términos 
+
+A  continuación,  se  listan,  según  el  orden  de  aparición  en  el  presente  documento,  los 
+principales términos definidos que se utilizan a lo largo del mismo.  
+
+“Política Corporativa” 
+
+Significa  esta  Política  Corporativa  de  Privacidad  del 
+Grupo Telefónica. 
+
+“Grupo Telefónica o Telefónica” 
+
+las  entidades 
+Significa  Telefónica,  S.A.  y  todas 
+pertenecientes  a 
+con 
+independencia  de  su  residencia  (dentro  o  fuera  de  la 
+UE) y de su forma jurídica.  
+
+su  grupo  empresarial 
+
+“Dato  personal  o  de  carácter 
+personal” 
+
+Significa  toda  información  sobre  una  persona  física 
+identificable  (en  este  documento 
+identificada  o 
+referido como el “Interesado”). 
+
+“Tratamiento” 
+
+“DPO” 
+
+cualquier  operación  o 
+
+Significa 
+conjunto  de 
+operaciones  realizadas  sobre  datos  personales  o 
+conjuntos  de  datos  personales,  ya  sea  por 
+procedimientos automatizados o no. 
+
+Significa la figura del Delegado de Protección de Datos 
+según  se  define  en  el  apartado  9  de  esta  Política 
+Corporativa. 
+
+“Responsable del Tratamiento” 
+
+Significa  la  entidad  que,  sola  o  junto  con  otras, 
+determine los fines y medios del tratamiento. 
+
+“Encargado del Tratamiento” 
+
+Significa la persona física o jurídica, autoridad pública, 
+servicio u otro organismo que trate datos personales 
+por cuenta del Responsable del tratamiento. 
+
+ 
+Cualquier otro término aquí no definido, tendrá el significado que, en su caso, determine la 
+normativa corporativa y/o local aplicable a cada entidad del Grupo Telefónica. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 15  
+
+

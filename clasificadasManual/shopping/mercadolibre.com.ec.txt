@@ -1,0 +1,1355 @@
+Declaración de privacidad y confidencialidad de la información de Mercado
+Libre
+
+Version actualizada al 30 de Julio de 2020.
+
+  
+
+  
+
+En Mercado Libre entendemos a la proteccion de los datos personales como una
+oportunidad para generar valor para nuestros usuarios. Haciendo un uso
+responsable de la informacion personal, no solo protegemos la privacidad de
+quienes nos confiaron sus datos, sino que les permitimos operar con seguridad
+y confianza en nuestro ecosistema.
+
+Por ello, tu privacidad es muy importante para nosotros y nos esforzamos para
+protegerla.
+
+Mercado Libre, con el fin de poder brindarte sus servicios, trata, recolecta y
+en algunos casos revela informacion sobre las personas que, como tu, son
+usuarios y visitantes de los sitios web y/o aplicaciones moviles, conforme se
+detalla aqui (las " _Plataformas_ " y los " _Servicios_ ", respectivamente).
+Esta Declaracion de Privacidad y Confidencialidad de la Informacion de Mercado
+Libre (la " _Declaraci on de Privacidad_") describen la informacion que
+Mercado Libre recolecta y trata sobre ti y lo que puede hacer con esa
+informacion.
+
+Esta Declaracion de Privacidad es parte integrante de los Terminos y
+Condiciones Generales de Mercado Libre. Prestar tu consentimiento voluntario,
+expreso e informado a esta Declaracion de Privacidad es un requisito esencial
+para poder contratar y/o tener cualquier tipo de relacion con Mercado Libre,
+dependiendo de la legislacion aplicable en cada pais.
+
+  
+
+  
+
+  1.  _ **¿ Como se integra Mercado Libre y como aplica esta Declaracion de Privacidad?**_  
+
+El objetivo de Mercado Libre es democratizar el comercio, el dinero, los
+pagos, los envios y el credito. Para ello ha generado un ecosistema de
+servicios integrados a traves de sus plataformas: Mercado Libre (Marketplace),
+Mercado Pago, Clasificados, Publicidad, Mercado Envios, Mercado Creditos,
+Mercado Shops, y Mercado Puntos. Todas estas plataformas conforman un todo y
+la interfuncionalidad entre ellas es tanto necesaria como indispensable para
+la prestacion de los servicios que te brinda Mercado Libre.
+
+Por esta razon, es importante que tengas en cuenta que cuando te registras en
+cualquiera de estas plataformas, estas generando un usuario que te permitira
+operar en todas las demas. Para ello es necesario que tus datos sean
+compartidos entre todas las empresas de Mercado Libre que conforman las
+plataformas. En la seccion 5. "¿Como compartimos la Informacion Personal?"
+podras encontrar mas informacion respecto a esto ultimo.
+
+Esta Declaracion de Privacidad aplica a todos los servicios y operaciones de
+tratamiento de datos de Mercado Libre, ya sea que se trate de MercadoLibre Inc
+o de sus subsidiarias o filiales.
+
+Creemos importante destacar que los servicios de Mercado Libre y cada una de
+sus plataformas estan destinados a usuarios ubicados en aquellos paises en los
+que Mercado Libre tenga presencia u operacion, por ejemplo, mediante un Sitio
+Web especifico para un pais determinado.
+
+  
+
+  
+
+  2.  _ **¿ Quien es el responsable del tratamiento de la Informacion Personal?**_  
+
+El responsable del tratamiento es quien decide sobre el tratamiento de los
+datos personales. Para ello determina los fines o usos para los que se
+utilizara la informacion personal y los medios que seran utilizados para ese
+tratamiento (consulta la Seccion 4. "¿Para que se utilizara la Informacion
+Personal?").
+
+Mercado Libre es el responsable del tratamiento de los datos de los usuarios y
+de los visitantes de sus Plataformas a traves de sus empresas subsidiarias o
+filiales. Para conocer cual es la compañia o compañias responsable/s del
+tratamiento en tu pais de residencia, por favor consulta el Anexo
+correspondiente a ese pais.
+
+  
+
+  
+
+  3.  _ **¿ Que informacion recolectamos y tratamos?**_  
+
+Mercado Libre recaba tu informacion personal para que puedas disfrutar de
+nuestros servicios, y poder mejorarlos de manera continua.
+
+En algunos casos, la informacion la facilitas tu mismo, al registrarte o al
+proveer informacion cuando utilizas alguno de nuestros servicios. En otros los
+recolectamos automaticamente, como cuando navegas por nuestras paginas,
+utilizas nuestros servicios. Tambien podemos recabar informacion acerca tuyo
+de otras fuentes confiables.
+
+Queremos que sepas que no tienes la obligacion de proporcionarnos la
+informacion personal que se muestra a continuacion, sin embargo, este es un
+requisito esencial para poder contratar y/o tener cualquier tipo de relacion
+con Mercado Libre y, si no proporcionas esta informacion, no podremos
+brindarte nuestros servicios o nuestra capacidad para hacerlo puede verse
+significativamente obstaculizada. La inexactitud o falsedad de los datos
+personales que proporciones podria causar la suspension de los Servicios.
+Asimismo, Mercado Libre podra suspender o inhabilitar definitivamente a
+aquellos usuarios que violen esta Declaracion de Privacidad.
+
+Estos son los tipos de datos que recolectamos:
+
+  
+  
+
+    *   
+
+Informacion que nos proporcionas directamente al registrarte o utilizar
+nuestros servicios:
+
+  
+  
+
+      * apodo o seudonimo para operar en las plataformas de MercadoLibre,
+  
+
+      * nombre, imagen personal (foto personal o foto del documento),
+  
+
+      * numero de documento o identificacion valida,
+  
+
+      * informacion de contacto (como numero de telefono, domicilio, direccion de correo electronico).
+  
+
+      * datos de cuenta bancaria
+  
+
+      * informacion y medios de pago
+  
+
+      * informacion sobre los derechos de propiedad intelectual, titularidad de los miembros del programa Brand Protection Program (BPP) e informacion sobre su actividad como denunciantes.
+  
+  
+
+  
+
+    *   
+
+Informacion que recopilamos de manera automatica, ya sea que te encuentres
+registrado o no:
+
+  
+  
+
+      * Informacion de los dispositivos o computadoras desde los que accedes a la plataforma de Mercado Libre y otros datos capturados automaticamente (como el tipo o version del navegador o del sistema operativo, configuraciones y parametros)
+  
+
+      * Direccion IP de internet que utilizas al conectarte a nuestros servicios o al navegar nuestros sitios web.
+  
+
+      * Informacion transaccional y movimientos dentro de las plataformas de Mercado Libre (compras, pagos, devoluciones, preguntas, retiros, transferencias, movimientos de la tarjeta pre-paid, creditos tomados, adelantos de dinero, reclamos, facturacion, datos fiscales, clave o codigo de identificacion de cuenta digital (CVU, CLABE, etc.), cuentas bancarias, mensajeria interna).
+  
+
+      * cierta informacion sobre la actividad de los usuarios y visitantes dentro de nuestro sitio web y las apps. Tal informacion puede incluir la URL de la que provienen (esten o no en nuestro sitio web), a que URL acceden seguidamente (esten o no en nuestro sitio web). Tambien las paginas visitadas, las interacciones con dichas paginas, las busquedas realizadas, las publicaciones, compras o ventas, calificaciones y replicas ingresadas, reclamos realizados y recibidos, mensajes en los foros, entre otra informacion podra ser almacenada y retenida.
+  
+
+      * informacion sobre tu ubicacion (geolocalizacion), que puede ser utilizada para ofrecerte descuentos, retiro de productos, localizar comercios con QR habilitado para el pago, entre otros.
+  
+
+      * listas de contactos de los dispositivos moviles utilizados por los usuarios, para proveer distintos servicios, como envio de dinero entre cuentas.
+  
+
+      * vinculaciones entre cuentas y usuarios, con motivo de acciones de prevencion del fraude
+  
+
+      * datos para gestion de reclamos y juicios (informacion para la elaboracion de documentos, antecedentes y estrategias).
+  
+
+      * si no te registraste ni accediste a traves de tu Cuenta Personal, Mercado Libre solamente recolectara y almacenara, ademas de la informacion indicada en este punto, tus numeros de telefono celulares, tu direccion de e-mail y correos electronicos enviados
+  
+  
+
+  
+
+    *   
+
+Informacion que recopilamos de otras fuentes:
+
+  
+  
+
+      * informacion recopilada para finalidades de prevencion de fraude y cumplimiento de regimenes informativos (listas PEPs, OFAC, etc.)
+  
+
+      * informacion crediticia que obtenemos de bases de riesgo crediticio y/o de fuentes de acceso publico, de conformidad con la legislacion aplicable.
+  
+
+      * datos que se utilizan para la validacion de identidad, obtenidos de fuentes seguras y confiables, tales como organismos publicos, proveedores de servicios o aliados comerciales con los que trabajamos.
+  
+  
+
+  
+  
+
+  
+
+  4.  _ **¿ Que hacemos con la Informacion Personal?**_  
+
+La recoleccion y tratamiento de tu Informacion Personal nos permite prestarte
+un excelente servicio para que puedas realizar operaciones en forma rapida y
+segura y ofrecerte funcionalidades que se adaptan mejor a tus necesidades.
+Salvo en aquellos casos en los que la normativa aplicable lo prohiba, Mercado
+Libre podra utilizar tu Informacion Personal para las siguientes finalidades:
+
+  
+  
+
+    1.   
+
+ **Brindar los productos, servicios y/o beneficios que ofrece las plataformas
+de Mercado Libre (Marketplace, Mercado Pago, Mercado Cr edito, Mercado Envios,
+Mercado Libre Clasificados, Mercado Libre Publicidad, etc).**
+
+  
+  
+
+      * Identificarte y contactarte.
+  
+
+      * Registrarte en nuestros sistemas.
+  
+
+      * Verificar tu identidad en cumplimiento de exigencias legales.
+  
+
+      * Brindarte los productos, servicios y/o beneficios que solicitas o contratas con nosotros.
+  
+
+      * Facilitarte entrar en contacto directo con el vendedor o comprador para efectos de la transaccion que deseas realizar.
+  
+
+      * Elaborar y mantener un registro de las operaciones que realices, asi como informarte acerca de las mismas y darle seguimiento correspondiente.
+  
+
+      * Poner a tu disposicion nuestra plataforma de comercio electronico y del sistema de pagos online conocido como Mercado Pago.
+  
+
+      * Gestionar los servicios y productos de Mercado Pago, incluyendo el servicio de procesamiento de pagos y la cuenta digital.
+  
+
+      * Brindarte soporte a las soluciones de inversion del dinero en cuenta.
+  
+
+      * Atender tus comentarios, quejas y sugerencias, asi como brindarte soporte.
+  
+
+      * Elaborar perfiles con fines de analisis crediticio.
+  
+
+      * Ofrecerte y gestionar los productos crediticios que solicites o contrates con nosotros.
+  
+
+      * Cobranza judicial y/o extrajudicial.
+  
+
+      * Facilitar el envio de productos anunciados en sitios web, aplicaciones y demas plataformas de comercio electronico operadas por Mercado Libre, o las que utilicen sus tecnologias.
+  
+
+      * Ofrecerte servicios y funcionalidades que se adecuen mejor a tus necesidades, y personalizar nuestros servicios para hacer que tus experiencias con Mercado Libre sean lo mas comodas posible.
+  
+
+      * Posibilitarte la participacion en concursos, subastas o sorteos, en caso de realizarlos y de que te sean aplicables, asi como notificarte si resultaras ganador, lo anterior siempre en cumplimiento a la normativa aplicable a sorteos y concursos.
+  
+
+      * Contribuir a la seguridad las relaciones, comunicaciones y transacciones entre los usuarios de nuestra plataforma.
+  
+
+      * Elaborar un sistema de reputacion de usuarios, para beneficio de los consumidores.
+  
+  
+
+  
+
+    2.   
+
+ **Mejorar nuestros servicios, desarrollar nuevos y ofrecerte una mejor
+experiencia con las plataformas de Mercado Libre.**
+
+  
+  
+
+      * Desarrollar estudios internos sobre tus intereses y comportamientos, para ofrecerte mejores servicios y productos, asi como realizar estudios estadisticos.
+  
+
+      * Elaborar perfiles mediante el analisis de diversas variables, como la conducta o interacciones dentro de la plataforma, el analisis y prediccion de la capacidad economica, preferencias, intereses, historial de transacciones, comportamiento y ubicacion, entre otros, para mejorar nuestras iniciativas comerciales y promocionales, mostrar publicidad o promociones, banners de interes, noticias sobre las plataformas de Mercado Libre, perfeccionar nuestra oferta de contenidos y articulos, personalizar dichos contenidos, presentacion y servicios.
+  
+
+      * Ofrecerte servicios y funcionalidades que se adecuen mejor a tus necesidades y personalizar nuestros servicios para hacer que tus experiencias con Mercado Libre sean lo mas comodas posible.
+  
+
+      * Mejorar nuestras iniciativas comerciales y promocionales y analizar las paginas visitadas, las busquedas realizadas por los usuarios, para mejorar nuestra oferta de contenidos y articulos, personalizar dichos contenidos, su presentacion y servicios.
+  
+
+      * Capacitar a consultoras o consultores independientes para mejorar su propuesta de servicios a los usuarios de Mercado Libre.
+  
+
+      * Brindarte informacion a traves de diferentes canales (por correo electronico, mensajes cortos de texto (SMS), mensajes push, llamada telefonica o cualquier otro medio) sobre mejoras o nuevas funciones o servicios de la plataforma.
+  
+
+      * Buscar tu fidelizacion mediante un programa de beneficios.
+  
+
+      * Permitir a terceros, mediante el uso de APIs publicas, construir aplicaciones que empleen contenidos de la plataforma e interactuen con ella para facilitar, mejorar y/o potenciar su uso y sus funcionalidades y de los servicios en general prestados por Mercado Libre.
+  
+  
+
+  
+
+    3.   
+
+ **Cumplir con obligaciones legales y requerimientos de autoridades
+competentes.**
+
+  
+  
+
+      * Cumplir con la normativa que le sea aplicable a Mercado Libre en general.
+  
+
+      * Cumplimiento de normativa de Prevencion de Lavado de Dinero y Financiamiento del Terrorismo (Acciones de (KYC), verificacion de identidad contra de Personas Expuestas Politicamente, verificacion de perfil e historial transaccional en cumplimiento de la regulacion aplicable en materia de prevencion de lavado de dinero, verificacion contra listas OFAC y otras), segun sea aplicable en cada pais.
+  
+
+      * Cumplimiento de regimenes informativos en general, segun sea aplicable en cada pais.
+  
+
+      * Cumplimiento de regimenes fiscales de recaudacion, registracion, informacion, auditoria y facturacion, a cualquier nivel de gobierno (ej.: nivel federal, estadual y municipal).
+  
+
+      * Cumplimiento de requerimientos informativos de autoridades administrativas o judiciales competentes.
+  
+
+      * Suministrar informacion de usuarios a entidades gubernamentales con acuerdos de colaboracion para el cumplimiento de sus competencias.
+  
+  
+
+  
+
+    4.   
+
+ **Detectar y prevenir fraudes, abusos y delitos relacionados para proteger la
+seguridad de nuestros usuarios y la sustentabilidad de las plataformas.**
+
+  
+  
+
+      * Hacer que las plataformas crezcan de una manera sustentable y segura mediante herramientas y acciones de prevencion del fraude y delitos relacionados.
+  
+
+      * Entrenar el modelo de algoritmo de deteccion y prevencion automatizada del fraude.
+  
+  
+
+  
+
+    5.   
+
+ **Proteger derechos de usuarios, de terceros o propios de Mercado Libre.**
+
+  
+  
+
+      * Defender los derechos, activos tangibles e intangibles de Mercado Libre.
+  
+
+      * Hacer valer los derechos de Mercado Libre ante incumplimientos de sus TyCs.
+  
+
+      * Permitir que otros usuarios o terceros puedan hacer valer sus derechos.
+  
+  
+
+  
+
+    6.   
+
+ **Colaborar con los titulares de propiedad intelectual en el ejercicio de sus
+derechos**
+
+  
+  
+
+      * Colaborar con la proteccion de los derechos de propiedad intelectual o industrial, propios o de terceros, investigaciones de violacion de marcas y patentes, asi como falsificaciones.
+  
+
+      * Colaborar con los miembros del Brand Protection Program la informacion personal de los vendedores denunciados a traves del programa para que puedan ejercer sus derechos fuera de la plataforma.
+  
+
+      * Facilitar la resolucion de disputas entre vendedores y los miembros del Brand Protection Program que los denunciaron.
+  
+
+      * Colaborar con las entidades que intervengan en la resolucion de disputas.
+  
+
+      * Colaborar con entidades privadas que representen intereses colectivos con acuerdo de colaboracion, para facilitar la resolucion de las disputas.
+  
+  
+
+  
+
+    7.   
+
+ **Efectuar anuncios y contactos publicitarios y promocionales.**
+
+  
+  
+
+      * Contactarte a traves de diferentes canales (por correo electronico, mensajes cortos de texto (SMS), mensajes push, llamada telefonica o cualquier otro medio) para finalidades publicitarias y/o promocionales de productos y servicios de Mercado Libre y/o de terceros.
+  
+
+      * Efectuar todo tipo de actividades de mercadotecnia, publicidad, prospeccion comercial y/o estudios de mercado.
+  
+  
+
+  
+  
+
+Algunas de estas finalidades descritas podrian no ser aplicables en cuanto: a)
+no utilices el servicio asociado a dichas finalidades, o b) los servicios
+vinculados a esas finalidades no esten ofrecidos en tu pais de residencia.
+
+La utilizacion de tus datos para cualquier otra finalidad que no sea
+compatible con las detalladas, te sera comunicada antes de que procedamos a su
+tratamiento.
+
+Mercado Libre mantendra tu Informacion Personal durante el plazo que sea
+necesario para cumplir con los fines para los cuales fueron recolectados.
+
+  
+
+  
+
+  5.   
+
+ ** _¿ Como compartimos la Informacion Personal?_**
+
+El resguardo de tu privacidad es muy importante para Mercado Libre. Por ello
+no vendemos ni comercializamos informacion que identifique a nuestros
+usuarios. Tampoco compartimos o transferimos de ningun otro modo tu
+Informacion Personal a terceros, salvo de la manera indicada a continuacion:
+
+Mercado Libre podra ceder, transmitir y/o transferir tu Informacion Personal
+a:
+
+(i) " _Proveedores de Servicios_ ": los proveedores de servicios o empresas de
+outsourcing son terceros que contratamos para que actuen en nombre de Mercado
+Libre para que presten un servicio siguiendo nuestras instrucciones y de
+conformidad a lo establecido en esta Declaracion de Privacidad, para
+contribuir a mejorar o facilitar las operaciones a traves de nuestra
+plataforma, como: (a) empresas de transporte, logistica, mensajeria y
+paqueteria, para hacerte llegar los productos que adquiriste, (b) medios de
+pago, intermediarios en la gestion de pagos o seguros, para obtener el pago
+por los servicios o productos contratados, asi como brindarte proteccion
+respecto de los productos adquiridos, (c) proveedores de sistemas
+informaticos, proveedores de servicios en la nube, proveedores de bases de
+datos, y proveedores de servicios tecnologicos en general, (d) call centers o
+centros de atencion al cliente, (e) empresas que manejen programas de
+fidelidad o lealtad, para otorgarte beneficios, (f) agencias de publicidad o
+marketing, (g) analisis de datos, (h) agencias de cobranzas, (i) entidades
+gubernamentales o empresas especializadas en riesgos, con la finalidad de
+verificar tu informacion. Estos Proveedores de Servicios solo acceden a la
+informacion estrictamente necesaria para prestar los servicios acordados y no
+pueden usarlos para finalidades distintas a las que les encomiende Mercado
+Libre.
+
+(ii) " _Aliados comerciales_ ": empresas con actividades financiera o
+comerciales con las que Mercado Libre tenga una relacion de colaboracion o
+alianza, con la finalidad de ofrecerte promociones, productos y servicios de
+dichas empresas o de marca compartida. En estos casos, Mercado Libre vela
+siempre porque se cumplan estandares de confidencialidad y seguridad, mediante
+la firma de acuerdos o convenios cuyo objeto sea la privacidad de los datos
+personales de nuestros usuarios y el cumplimiento de la legislacion aplicable.
+
+(iii) " _Grupo Mercado Libre_ ": sociedades que pertenezcan a nuestro grupo
+corporativo, que operan bajo nuestros mismos procesos y politicas internas, ya
+sean sociedades controladas, controlantes o afiliadas con Mercado Libre, para
+cumplir con nuestra normativa interna, prevenir fraudes, gestionar riesgos y
+facilitar la gestion de los servicios y productos de Mercado Libre.
+
+(iv) " _Contraparte en la transacci on_": otros usuarios de las plataformas de
+Mercado Libre, en las condiciones previstas, con la finalidad de ponerlo en
+contacto con el vendedor o comprador para efectos de la transaccion que desea
+realizar.
+
+(v) " _Autoridades p ublicas_": las autoridades administrativas y judiciales
+que en ejercicio de su competencia requieran informacion, aunque no exista una
+orden ni una citacion ejecutiva o judicial al efecto, con la finalidades de:
+(a) colaborar en la investigacion y denunciar fraudes, pirateria, violaciones
+de propiedad intelectual o industrial o cualquier otro ilicito, asi como
+cualquier actividad o circunstancia que pudiera generarle responsabilidad
+legal a Mercado Libre y/o a sus usuarios; (b) salvaguarda de un interes
+publico, la procuracion o administracion de justicia, el reconocimiento,
+ejercicio o defensa de un derecho en un proceso judicial o administrativo, y/o
+la resolucion de controversias; y (c) dar cumplimiento a alguna ley,
+reglamento o disposicion legal aplicable, o a algun mandato de autoridad
+competente debidamente fundado y motivado.
+
+(vi) " _Miembros del Brand Protection Program_ ": participantes en el Programa
+de Proteccion de Marca (Brand Protection Program, antes Programa de Proteccion
+de Propiedad Intelectual) de Mercado Libre, con la finalidad de la defensa de
+los derechos de propiedad industrial que se comercializan a traves de Mercado
+Libre. Conozca mas de este Programa en:
+https://www.mercadolibre.com.ec/brandprotection/enforcement
+
+(vii) "Intervinientes en Disputas": autoridades, amigables componedores,
+tribunales o entidades que intervengan en solucion de disputas con la
+finalidad de resolver las controversias que se llegaran a suscitar entre
+usuarios o entre estos y cualquiera de las empresas del grupo corporativo de
+Mercado Libre.
+
+(viii) " _Desarrolladores_ " en el marco y las condiciones del Programa de
+Desarrolladores de Mercado Libre
+(https://developers.mercadolibre.com.ec/es_ec/terminos-y-condiciones).
+
+(ix) " _Usuarios y/o visitantes en general_ ": otros usuarios y/o visitantes
+de nuestra plataforma, con la finalidad de calidad del servicio al consumidor
+final, brindandole informacion para que tome una decision de compra informada.
+Se publicara en la plataforma el numero de ventas realizado por el vendedor,
+asi como reputacion, atencion brindada, opiniones de los compradores (cuyo
+contenido no es responsabilidad de Mercado Libre) y puntualidad en las
+entregas de los productos.
+
+Asimismo, Mercado Libre podra divulgar tu Informacion Personal
+discrecionalmente a otros usuarios de los Sitios Web y/o los Servicios,
+entidades o terceros cuando haya motivos suficientes para considerar que tu
+actividad sea sospechosa de intentar o cometer un delito o intentar perjudicar
+a otras personas.
+
+Si Mercado Libre decidiese compartir tu Informacion Personal con terceros
+distintos a los mencionados, solicitaremos tu consentimiento previo y expreso,
+siempre y cuando no exista una autorizacion u obligacion legal que permita
+realizarlo sin ese consentimiento.
+
+Asimismo, prestas tu consentimiento expreso e informado para que Mercado Libre
+ceda, transmita o transfiera tu Informacion Personal a los destinatarios
+detallados en esta Declaracion de Privacidad.
+
+Finalmente, Mercado Libre no sera responsable por el uso indebido de tu
+Informacion Personal que haga cualquier tercero cuando sean estos terceros
+quienes directamente recolecten y/o traten tu Informacion Personal.
+
+  
+
+  
+
+  6.   
+
+ ** _Transferencias internacionales de datos_**
+
+Los servicios que brinda Mercado Libre requieren del soporte de una
+infraestructura tecnologica, como servidores y servicios en la nube, que
+pueden ser propios o provistos por terceros.
+
+Parte de esa infraestructura puede estar establecida en un pais diferente al
+tuyo.
+
+Tambien puede ocurrir que los destinatarios de los datos indicados
+anteriormente en la seccion "¿Como compartimos la Informacion Personal?" se
+encuentren en un pais distinto.
+
+Puede que los paises receptores de los datos que transferimos no ofrezcan
+niveles adecuados de proteccion de datos personales, conforme la normativa
+aplicable.
+
+En estos casos, Mercado Libre adopta medidas para resguardar tus datos,
+mediante clausulas contractuales o normas corporativas vinculantes que imponen
+las mismas medidas de proteccion que las que se describen en esta Declaracion
+de Privacidad.
+
+  
+
+  
+
+  7.   
+
+ ** _¿ Por cuanto tiempo vamos a almacenar la Informacion Personal?_**
+
+Solo almacenaremos la informacion personal durante el tiempo necesario para
+cumplir con el proposito para el que se han recopilado, para cumplir con
+requisitos reglamentarios o legales, o durante el periodo de prescripcion
+legal de posibles responsabilidades legales o contractuales.
+
+Una vez concluido el lapso, los datos seran eliminados o anonimizados de
+manera tal que no pueda ser individualizada ninguna persona, segun lo permita
+la normativa de cada pais.
+
+  
+
+  
+
+  8.   
+
+ ** _Decisiones automatizadas y elaboraci on de perfiles_**
+
+En Mercado Libre estamos comprometidos con brindarte mas servicios y mejores,
+que simplifiquen tu vida.
+
+Para esto recurrimos a herramientas que nos ayudan a ser mas eficientes
+mediante tecnicas conocidas como "inteligencia artificial", "machine learning"
+o "Big Data" que utilizamos para diversos fines, como prevencion del fraude,
+analisis y prediccion de la capacidad economica, personalizacion de servicios
+y publicidad, mecanismos de ciberseguridad automatizados o validacion de
+identidad mediante reconocimiento de imagenes.
+
+Las decisiones automatizadas son aquellas que se toman en base al uso de
+algoritmos y programas informaticos, sin que intervenga ningun ser humano en
+el proceso de la toma de decision.
+
+Por su parte, la elaboracion de perfiles es la evaluacion de algunos aspectos
+personales, como tus intereses, preferencias, comportamientos o ubicacion, que
+se realiza procesando de manera automatizada informacion personal con
+procedimientos estadisticos. Como consecuencia de este tratamiento, podriamos
+enviarte comunicaciones personalizadas, o mostrartelas dentro de nuestras
+plataformas, que creemos que pueden ser de tu interes.
+
+Tienes derecho a solicitar que se revise una decision basada en un tratamiento
+automatizado de datos.
+
+  
+
+  
+
+  9.   
+
+ ** _Confidencialidad de la Informaci on Personal y Responsabilidad de los
+Usuarios_**
+
+Haremos todo lo que este a nuestro alcance para proteger la privacidad de tu
+Informacion Personal. El usuario sera responsable de todos los actos que
+tengan lugar mediante el uso de su apodo y clave. Si por cualquier razon
+creyeras que alguien puede conocer tu clave, deberas modificarla ingresando
+desde el menu de navegacion en Mi cuenta > Configuracion > Datos personales.
+
+  
+
+  
+
+  10.   
+
+ ** _Menores de Edad_**
+
+Los Servicios de Mercado Libre solo estan disponibles para aquellas personas
+que tengan capacidad legal para contratar conforme la normativa aplicable. Por
+lo tanto, si no cumples con esta condicion, no deberas suministrar tu
+Informacion Personal.
+
+  
+
+  
+
+  11.   
+
+ ** _El uso de la Informaci on Personal por otros Usuarios_**
+
+Mercado Libre permite a los usuarios un acceso limitado a ciertos datos (como
+nombre, apodo, correo electronico, otros datos de contacto e informacion para
+facturacion y envios) del resto de los usuarios para facilitar la interaccion
+entre ellos. Bajo ninguna circunstancia otros usuarios podran comunicar tu
+Informacion Personal a terceros sin tu consentimiento y/o el consentimiento de
+Mercado Libre, segun corresponda.
+
+Cuando un usuario vendedor recibe informacion personal de sus compradores, se
+constituye en responsable por el tratamiento de esos datos y adquiere las
+obligaciones que ello implica. Por ello, no puede usar los datos para una
+finalidad distinta o incompatible a la que origino la recoleccion: completar
+una transaccion en la plataforma de Mercado Libre. Por esta razon, solo podran
+utilizar la Informacion Personal de otros usuarios obtenida en el sitio para:
+(a) fines relacionados con transacciones en la plataforma de Mercado Libre,
+(b) utilizar servicios ofrecidos en Mercado Libre (por ejemplo: deposito,
+seguros, envio o transporte y reclamaciones sobre fraude), y (c) cualquier
+otra finalidad a la que el usuario correspondiente consienta expresamente una
+vez le haya sido comunicada previamente la informacion legalmente requerida.
+
+Mercado Libre no acepta conductas consideradas "spamming". Queda absolutamente
+prohibido el envio indiscriminado de mensajes de cualquier naturaleza entre
+los usuarios de Mercado Libre.
+
+Mercado Libre no controla, almacena ni tiene acceso a los mensajes y
+contenidos enviados por los usuarios a traves de medios diferentes a los
+Sitios Web, por lo que no asume ninguna responsabilidad respecto a los daños
+que pudiera ocasionar su uso. Las negociaciones llevadas a cabo por los
+usuarios a traves de dichos medios quedan bajo la propia responsabilidad de
+dichos usuarios.
+
+**Mercado Libre no es responsable del uso que cualquier usuario u otra persona
+pudieran hacer de la informaci on publicada en los Sitios Web. Los usuarios
+aceptan que Mercado Libre no sera responsable de las perdidas ni daños que se
+puedan generar como resultado de las negociaciones entre usuarios. En
+consecuencia, liberas a Mercado Libre de todo tipo de responsabilidad en caso
+de que tengas un conflicto con uno o mas usuarios.**
+
+  
+
+  
+
+  12.   
+
+ ** _Enlaces a otros Sitios Web_**
+
+A traves de los Sitios Web, Mercado Libre podria incluir enlaces a sitios web
+de terceros, lo cual no indica que sean propiedad de, o sean operados por,
+Mercado Libre. Se aclara que el procesamiento de la Informacion Personal que
+hagan los terceros responsables de los sitios web antes mencionados no esta
+alcanzado por esta Declaracion de Privacidad. Asimismo, reconoces y aceptas
+que Mercado Libre no tiene control sobre tales sitios web y no es ni sera
+responsable por el contenido ni por los servicios prestados por tales sitios,
+ni por el modo en que estos procesen tu Informacion Personal, por lo que
+ingresas a dichos sitios web bajo tu propia responsabilidad.
+
+  
+
+  
+
+  13.   
+
+ ** _¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal?_**
+
+La normativa aplicable te confiere ciertos derechos sobre tu Informacion
+Personal, como por ejemplo: (i) acceso; (ii) actualizacion; (iii)
+rectificacion; (iv) el cese en el envio de publicidades, ofertas y
+promociones; (v) supresion; (vi) revocacion del consentimiento; y (vii)
+confidencialidad.
+
+Podras hacer cualquier consulta, reclamo y/o peticion relativa a tu
+Informacion Personal contactando a Mercado Libre a traves de este formulario;
+o bien a traves de los datos de contacto provistos en los anexos de cada pais
+incluidos debajo.
+
+En determinados casos, mantendremos en nuestros archivos tu Informacion
+Personal que nos hayas pedido que suprimamos para cumplir con las finalidades
+descritas en esta Declaracion de Privacidad o cuando exista un deber
+contractual o legal de mantener tu Informacion Personal. Una vez cumplida tal
+finalidad o eliminado el deber contractual o legal, procederemos a suprimir tu
+Informacion Personal.
+
+  
+
+  
+
+  14.   
+
+ ** _Publicidad, Cookies y Otras Tecnolog ias_**
+
+El usuario reconoce y aceptas expresamente que Mercado Libre podra utilizar un
+sistema de seguimiento de conducta mediante la utilizacion de "cookies", "web
+beacons" y/u otras tecnologias similares de seguimiento.
+
+Estas tecnologias se utilizan con el fin de conocer los intereses y el
+comportamiento de quienes visitan o son usuarios de nuestro sitio web y, de
+esa forma, darles un mejor servicio o proveerles informacion relacionada.
+Tambien usamos la informacion obtenida a traves de cookies para analizar las
+paginas navegadas por el visitante o usuario, las busquedas realizadas,
+mejorar nuestras iniciativas comerciales y promocionales, mostrar publicidad o
+promociones, banners de interes, noticias sobre Mercado Libre, perfeccionar
+nuestra oferta de contenidos y articulos, personalizar dichos contenidos,
+presentacion y servicios, asi como promover y hacer cumplir las reglas y
+seguridad del sitio; tambien las utilizamos para para que el usuario no tenga
+que introducir su clave tan frecuentemente durante una sesion de navegacion,
+tambien para contabilizar y corroborar las inscripciones, la actividad del
+usuario y otros conceptos para acuerdos comerciales, siempre teniendo como
+objetivo de la instalacion de las cookies, el beneficio del usuario que la
+recibe, y las cuales no seran usadas con fines ajenos a Mercado Libre.
+Asimismo, almacenamos cookies para poder ofrecer una experiencia mas
+interactiva en el sitio, basada en las acciones del usuario.
+
+Sus datos personales obtenidos a traves de estas tecnologias no seran
+transferidos a terceros de una manera diferente a las descritas en esta
+Declaracion de Privacidad.
+
+Adicionalmente, se pueden encontrar " _cookies_ " u otros sistemas similares
+instalados por terceros en ciertas paginas de nuestros Sitios Web o utilizados
+por anunciantes ajenos a Mercado Libre. Estas Politicas de Privacidad cubren
+la utilizacion de " _cookies_ " por Mercado Libre y no incluyen el uso de "
+_cookies_ " instaladas por terceros.
+
+Debes saber que la instalacion, permanencia y existencia de las cookies en tu
+computadora o dispositivo depende de tu exclusiva voluntad y pueden ser
+eliminadas cuando usted asi lo desees. Para saber como quitar las Cookies del
+sistema es necesario revisar la seccion Ayuda (Help) del navegador.
+
+En este sentido, puedes en cualquier momento eliminar las cookies almacenadas,
+configurar el navegador para que solicite aprobacion antes de almacenar
+cookies o directamente evitar que se almacenen cookies. Este procedimiento se
+realiza de forma diferente en los distintos navegadores y es necesario
+realizarlo en cada navegador que utilices.se utilice. A continuacion ponemos a
+su disposicion los diferentes procedimientos para manejar esta configuracion
+en los navegadores mas utilizados:
+
+_Desde Internet Explorer (en Windows)_
+
+http://windows.microsoft.com/es-es/windows-vista/block-or-allow-cookies
+
+_Microsoft Edge_
+
+https://support.microsoft.com/es-ec/help/4027947/microsoft-edge-delete-cookies
+
+_Firefox_
+
+https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-
+sitios-we
+
+_Google Chrome_
+
+http://support.google.com/chrome/bin/answer.pa?hl=es&answer=95647
+
+_Opera_
+
+http://help.opera.com/Windows/11.50/es-ES/cookies.html
+
+_Safari (en Mac)_
+
+http://www.apple.com/legal/privacy/es/cookies/
+
+Si desactivas las cookies, debes tener en cuenta que es posible que no puedas
+hacer uso y goce de todas las funcionalidades que ofrece Mercado Libre.
+
+  
+
+  
+
+  15.   
+
+ ** _Seguridad. Almacenamiento de la Informaci on Personal_**
+
+Mercado Libre cumple con la normativa y los estandares de la industria en
+materia de medidas de seguridad aplicables a tu Informacion Personal.
+
+Mercado Libre no se hace responsable por interceptaciones ilegales o violacion
+de sus sistemas o bases de datos, o por su utilizacion por parte de personas
+no autorizadas. Mercado Libre tampoco se hace responsable por la indebida
+utilizacion de la informacion obtenida por esos medios.
+
+  
+
+  
+
+  16.   
+
+ ** _Cambios en la Declaraci on de Privacidad_**
+
+Si Mercado Libre realizara cambios en la forma en que la Informacion Personal
+sea administrada, notificaremos a los usuarios por nuestros canales
+habituales, como el correo electronico o mensajes a traves de las
+aplicaciones. En los terminos permitidos por la normativa de cada pais, para
+el caso de usuarios que no acepten esos nuevos terminos, el vinculo
+contractual con Mercado Libre quedara disuelto y la Informacion Personal de
+dicho usuario no sera usada de otra forma que la que fue informada al momento
+de recabarse.
+
+  
+
+  
+
+  17.   
+
+ ** _Ley Aplicable y Jurisdicci on_**
+
+La Declaracion de Privacidad se regira por las leyes aplicables conforme se
+detalla en los anexos de cada pais incluidos debajo. Ante cualquier
+controversia o divergencia relacionada con la interpretacion, validez,
+celebracion o cumplimiento de la presente Declaracion de Privacidad, se
+resolvera por los tribunales competentes indicados en dichos anexos de cada
+pais incluidos debajo.
+
+  
+
+  
+
+  
+
+* * * *
+
+  
+
+### ANEXO PARA ARGENTINA
+
+  
+
+Lo dispuesto en este anexo es de aplicacion exclusiva para los usuarios y
+visitantes domiciliados en la Republica Argentina. En caso de contradiccion
+entre lo dispuesto en el texto principal de la Declaracion de Privacidad y
+este anexo, regira para los usuarios y visitantes domiciliados en la Republica
+Argentina lo dispuesto en este anexo.
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+En Argentina, los Servicios de Mercado Libre son prestados por Mercado Libre
+S.R.L., CUIT 30-70308853-4, con domicilio en Avenida Caseros 3039, Piso 2,
+Ciudad Autonoma de Buenos Aires, C1264, Republica Argentina. Dichos Servicios
+de Mercado Libre son ofrecidos a traves las Plataformas
+www.mercadolibre.com.ar y www.mercadopago.com.ar. El responsable de la base de
+datos recolectados en la Republica Argentina es Mercado Libre S.R.L.
+
+13\. **¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal?**
+
+En cumplimiento de lo dispuesto por las disposiciones de la Ley N° 25.326, el
+Decreto Reglamentario N° 1558/2001 y las disposiciones y/o resoluciones
+vinculantes emitidas por la Agencia de Acceso a la Informacion Publica se
+comunica que: "el titular de los datos personales tiene la facultad de ejercer
+el derecho de acceso a los mismos en forma gratuita a intervalos no inferiores
+a seis meses, salvo que se acredite un interes legitimo al efecto conforme lo
+establecido en el articulo 14, inciso 3 de la Ley Nº 25.326. LA AGENCIA DE
+ACCESO A LA INFORMACIÓN PÚBLICA, en su caracter de Órgano de Control de la Ley
+N° 25.326, tiene la atribucion de atender las denuncias y reclamos que
+interpongan quienes resulten afectados en sus derechos por incumplimiento de
+las normas vigentes en materia de proteccion de datos personales. El titular
+podra en cualquier momento solicitar el retiro o bloqueo de su nombre de los
+bancos de datos a los que se refiere el presente articulo. En toda
+comunicacion con fines de publicidad que se realice por correo, telefono,
+correo electronico, Internet u otro medio a distancia a conocer, se debera
+indicar, en forma expresa y destacada, la posibilidad del titular del dato de
+solicitar el retiro o bloqueo, total o parcial, de su nombre de la base de
+datos. A pedido del interesado, se debera informar el nombre del responsable o
+usuario del banco de datos que proveyo la informacion."
+
+Sin perjuicio de lo dispuesto en las Politicas de Privacidad, tambien podras
+realizar consultas y/o ejercer los derechos de acceso, rectificacion y
+supresion de tu Informacion Personal por correo postal a Avenida Caseros 3039,
+piso 2°, Ciudad Autonoma de Buenos Aires, C.P.: C1264AAK. Atte.: Mercado Libre
+S.R.L.
+
+17\. **Ley Aplicable y Jurisdicci on**
+
+Las Politicas de Privacidad se regiran por las leyes de la Republica
+Argentina. Ante cualquier controversia o divergencia relacionada con la
+interpretacion, validez, celebracion o cumplimiento de las mismas, tu y
+Mercado Libre declaran que se someten a la jurisdiccion exclusiva de los
+Tribunales Nacionales Ordinarios con asiento en la Ciudad Autonoma de Buenos
+Aires, renunciando expresamente a cualquier otro fuero y/o jurisdiccion que
+pudiera corresponderles.
+
+  
+
+* * * *
+
+  
+
+### ANEXO PARA BRASIL
+
+  
+
+Lo dispuesto en este anexo es de aplicacion exclusiva para los usuarios y
+visitantes residentes en la Republica Federativa del Brasil o cualquier otra
+situacion en que se apliquen las leyes brasileñas. En caso de contradiccion
+entre lo dispuesto en el texto principal de las Politicas de Privacidad y este
+anexo, regira para los usuarios y visitantes domiciliados en la Republica
+Federativa del Brasil lo dispuesto en este anexo.
+
+La recoleccion de tu Informacion Personal se basa no solo en tu consentimiento
+expreso, sino que tambien tiene fundamento en: (i) el cumplimiento de
+obligaciones legales o regulatorias de Mercado Libre; (ii) el ejercicio
+regular de derechos en procedimientos judiciales, administrativos o
+arbitrales; (iii) la ejecucion de la relacion comercial y contractual entre
+Mercado Libre y los usuarios; (iv) el interes legitimo de Mercado Libre o de
+un tercero; y (v) proteccion del credito.
+
+Al visitar las Plataformas y utilizar los Servicios, usted, como persona con
+18 años de edad o mayor, acepta la recoleccion, uso, transmision, produccion,
+recepcion, clasificacion, acceso, reproduccion, distribucion, manejo, archivo,
+almacenamiento, eliminacion, evaluacion, y/o control de informacion,
+modificacion, comunicacion, transferencia, difusion, extraccion o cualquier
+actividad de tratamiento ("Tratamiento") de sus datos personales e informacion
+como se describe en esta Declaracion de Privacidad.
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+En la Republica Federativa del Brasil los Servicios de Mercado Libre son
+prestados por EBAZAR.COM.BR LTDA, registrada en el CNPJ/MF bajo el n°
+03.007.331/0001-41 y MercadoPago.com Representaçoes Ltda., registrada en el
+CNPJ/MF bajo el n°10.573.521/0001-91, ambas con domicilio en Av. das Naçoes
+Unidas, nº 3.003, Bonfim, Osasco/SP, Brasil. es el responsable del tratamiento
+de los datos personales que recabemos de ti.
+
+8\. **Decisiones automatizadas y elaboraci on de perfiles**
+
+Sin perjuicio de lo establecido en la clausula 13 de la Declaracion de
+Privacidad, tambien podras ejercer en todo momento tu derecho de acceso, a fin
+de conocer la Informacion Personal que se utilizo como parte de la toma de
+decision correspondiente y, de ser el caso, el derecho de rectificacion,
+cuando consideres que alguno de los datos personales utilizados sea inexacto o
+incompleto.
+
+13\. **¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal?**
+
+La normativa aplicable te confiere los siguientes derechos sobre tu
+Informacion Personal: (i) confirmacion de la existencia de tratamiento de tu
+Informacion Personal; (ii) acceso; (iii) correccion de Informacion Personal
+incompleta, inexacta o desactualizada; (iv) anonimizacion, bloqueo o supresion
+de Informacion Personal innecesaria, excesiva o tratada en incumplimiento de
+la legislacion aplicable; (v) portabilidad de la Informacion Personal; (vi)
+supresion de la Informacion Personal cuando no ya no sea necesaria para los
+fines para los que fue recolectada, excepto en caso de necesaria conservacion
+para: (a) el cumplimiento de una obligacion legal o reglamentaria; (b)
+transferencia a un tercero por otra razon autorizada por las leyes o cualquier
+norma que otra ley o norma que regula la proteccion de datos personales en
+Brasil, incluida la Ley Brasileña de Proteccion de Datos Personales - LGPD
+(Ley n. 13.709/18); o (c) uso exclusivo del controlador en forma anonima;
+(vii) informacion de las entidades publicas y privadas con las que Mercado
+Libre ha compartido tu Informacion Personal; (viii) informacion sobre la
+posibilidad de no prestar consentimiento y sobre las consecuencias de su
+negativa; (ix) revocacion de consentimiento; (x) realizar un reclamo ante la
+Autoridad Nacional de Proteccion de Datos Personales relacionado con el
+tratamiento de tu Informacion Personal; y (xi) oponerte al tratamiento de tu
+Informacion Personal con motivo del incumplimiento a la legislacion aplicable.
+
+Sin perjuicio de lo dispuesto en la Declaracion de Privacidad, tambien podras
+realizar consultas y/o ejercer los derechos de acceso, rectificacion y
+supresion de tu Informacion Personal por correo postal a Av. das Naçoes
+Unidas, nº 3.003, Bonfim, Osasco/SP, Brasil Atte.: EBAZAR.COM.BR LTDA.
+
+17\. **Ley Aplicable y Jurisdicci on**
+
+Las Politicas de Privacidad se regiran por las leyes de la Republica
+Federativa del Brasil. Ante cualquier controversia o divergencia relacionada
+con la interpretacion, validez, celebracion o cumplimiento de las mismas, tu y
+Mercado Libre declaran que se someten a la jurisdiccion exclusiva de los
+Tribunales competentes de la Ciudad de Sao Paulo-SP, renunciando expresamente
+a cualquier otro fuero y/o jurisdiccion que pudiera corresponderles, salvo que
+te encuentres comprendido dentro del concepto legal de consumidor, en cuyo
+caso podras realizar los reclamos ante los Tribunales competentes de tu
+domicilio.
+
+  
+
+* * * *
+
+  
+  
+
+### ANEXO PARA COLOMBIA
+
+  
+
+Lo dispuesto en este anexo es de aplicacion exclusiva para los usuarios
+colombianos y visitantes usuarios domiciliados en la Republica de Colombia. En
+caso de contradiccion entre lo dispuesto en el texto principal de la
+Declaracion de Privacidad y este anexo, regira para los usuarios colombianos y
+visitantes usuarios domiciliados en la Republica de Colombia lo dispuesto en
+este anexo.
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+En la Republica de Colombia los Servicios de Mercado Libre son prestados por
+Mercado Libre Colombia LTDA., con NIT 830067394-6 y domicilio en la Carrera 17
+No. 93-09, Piso 3, Bogota D.C., Republica de Colombia. y es el responsable del
+tratamiento de los datos personales que recabemos de ti.
+
+13\. **Derechos de acceso, rectificaci on y supresion de la Informacion
+Personal**
+
+La ley de proteccion de datos de la Republica de Colombia preve adicionalmente
+los siguientes derechos en cabeza de los titulares, a saber: (i) solicitar
+prueba de la autorizacion otorgada al responsable del tratamiento salvo cuando
+expresamente se exceptue como requisito para el tratamiento; (ii) ser
+informado por el responsable del tratamiento, previa solicitud, respecto del
+uso que le ha dado a sus datos personales; y (iii) presentar ante la
+Superintendencia de Industria y Comercio quejas por incumplimiento de la
+normatividad colombiana de proteccion de datos.
+
+Sin perjuicio de lo dispuesto en las Politicas de Privacidad, tambien podras
+realizar consultas y/o ejercer los derechos de acceso, rectificacion y
+supresion de tu Informacion Personal por correo postal a la Carrera 17 No.
+93-09, Piso 3, Bogota D.C., Republica de Colombia. Atte.: Mercado Libre
+Colombia LTDA.
+
+Mercado Libre procesara cualquier consulta o reclamo en relacion con la
+Informacion Personal recopilada y procesada a traves de los medios habilitados
+para dichos fines conforme al procedimiento dispuesto en los articulos 14 y 15
+de la ley N° 1581 de 2012..
+
+17\. **Ley Aplicable y Jurisdicci on**
+
+Las Politicas de Privacidad se regiran por las leyes de la Republica de
+Colombia. Ante cualquier controversia o divergencia relacionada con la
+interpretacion, validez, celebracion o cumplimiento de las mismas, tu y
+Mercado Libre declaran que se someten a la jurisdiccion exclusiva de los
+Tribunales competentes de la Ciudad de Bogota, renunciando expresamente a
+cualquier otro fuero y/o jurisdiccion que pudiera corresponderles. Los
+procedimientos se llevaran a cabo en idioma castellano.
+
+La autoridad de aplicacion en la Republica de Colombia en materia de
+proteccion de datos personales es la Delegatura para la Proteccion de Datos
+Personales de la Superintendencia de Industria y Comercio y las normas en
+materia de proteccion de datos son la Ley 1581 de 2012, el Decreto 1377 de
+2013 y demas normas concordantes.
+
+  
+
+* * * *
+
+  
+  
+
+### ANEXO PARA MÉXICO
+
+  
+
+El tratamiento de datos personales que se realice en Mexico, o que haga
+aplicable al derecho mexicano, se regira de conformidad con lo establecido en
+la Declaracion de Privacidad y el presente Anexo Mexico que, junto con la
+Declaracion de Privacidad constituye el aviso de privacidad integral en
+terminos de la normativa mexicana. Para efectos de Mexico, en caso de
+conflicto entre la Declaracion de Privacidad y el Anexo Mexico, este ultimo
+prevalecera.
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+MercadoLibre, S. de R.L. de C.V. (en lo sucesivo "Mercado Libre"), con
+domicilio en Av. Insurgentes Sur 1602, Piso 9, Suite 900, Colonia Credito
+Constructor, Alcaldia Benito Juarez, C.P. 03940, Ciudad de Mexico, CDMX, es el
+responsable del tratamiento de los datos personales que recabemos de ti.
+
+3\. **¿ Que informacion recolectamos y tratamos?**
+
+Para las finalidades mencionadas en la Declaracion de Privacidad podremos
+recabar los datos personales expresamente ahi señalados, asi como cualquier
+otro dentro de las siguientes categorias: (i) Identificacion; (ii) contacto;
+(iii) financieros; (iv) patrimoniales; (v) intereses y preferencias. No
+recabaremos datos personales sensibles.
+
+_Datos personales de terceros y de menores._ Para los datos personales de
+terceros que nos llegues a proporcionar, deberas contar previamente con el
+consentimiento del titular de dichos datos e informarle que puede conocer el
+respectivo aviso de privacidad solicitandolo via correo electronico a nuestro
+oficial de privacidad. En cualquier caso, Mercado Libre cumplira con las
+disposiciones de la Ley Federal de Proteccion de Datos Personales en Posesion
+de los Particulares y su Reglamento en cuanto al tratamiento de datos
+personales obtenidos de forma indirecta. Para el tratamiento de los datos
+personales de menores de 18 años de edad, se estara a lo informado en la
+seccion 10 de la Declaracion de Privacidad.
+
+4\. **¿ Que hacemos con la Informacion Personal?**
+
+Tus datos personales son recabados para las finalidades principales y
+secundarias expresamente señaladas en la Declaracion de Privacidad.
+
+Las finalidades principales son necesarias para ofrecerte nuestros servicios
+en tu caracter de cliente, usuario o visitante de nuestras plataformas; las
+finalidades secundarias no son necesarias para brindarte el producto o
+servicio solicitado, pero nos son de suma importancia para darte una mejor
+atencion y desarrollar nuestros legitimos intereses comerciales.
+
+Negativa para finalidades secundarias. Si no deseas que tus datos personales
+sean tratados para las finalidades secundarias mencionadas, o alguna de ellas,
+puedes negarnos tu consentimiento desde este momento enviando tu solicitud a
+nuestro oficial de privacidad. Tu negativa en este sentido, no afectara la
+realizacion de las demas finalidades establecidas en la Declaracion de
+Privacidad.
+
+Las finalidades principales son las que se enumeran entre los numerales 1 a 6
+de la seccion "4\. ¿Que hacemos con la Informacion Personal?" de la
+Declaracion de Privacidad.
+
+5\. **¿ Como compartimos la Informacion Personal?**
+
+Para las transferencias descritas en las secciones (vi) y (viii) de la
+clausula 5 de la Politica de Privacidad, consulta los siguientes enlaces para
+Mexico:
+
+(vi) "Miembros del Brand Protection Program":
+https://www.mercadolibre.com.ar/brandprotection/enforcement
+
+(viii) "Desarrolladores" en el marco y las condiciones del Programa de
+Desarrolladores de Mercado Libre:
+https://developers.mercadolibre.com.ar/es_ar/terminos-y-condiciones
+
+8\. **Decisiones automatizadas y elaboraci on de perfiles**
+
+Sin perjuicio de lo establecido en la clausula 13 de la Politica de
+Privacidad, tambien podras ejercer en todo momento tu derecho de acceso, a fin
+de conocer la Informacion Personal que se utilizo como parte de la toma de
+decision correspondiente y, de ser el caso, el derecho de rectificacion,
+cuando consideres que alguno de los datos personales utilizados sea inexacto o
+incompleto.
+
+13\. **¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal? **
+
+Sin perjuicio de lo dispuesto en las Politicas de Privacidad, tambien podras
+realizar consultas y/o ejercer los derechos de acceso, rectificacion, y
+supresion y oposicion al tratamiento de tu Informacion Personal mediante una
+solicitud dirigida a nuestro Departamento de Datos Personales por correo
+postal a la Calle Insurgentes Sur 1602 Piso 9, Suite 900, Credito Constructor,
+Benito Juarez, Distrito Federal. CP 03940, Ciudad de Mexico, Mexico. Atte.:
+MercadoLibre, S. de R.L de C.V.
+
+17\. **Ley Aplicable y Jurisdicci on**
+
+Las Politicas de Privacidad se regiran por las leyes de Mexico, Distrito
+Federal. Ante cualquier controversia o divergencia relacionada con la
+interpretacion, validez, celebracion o cumplimiento de las mismas, tu y
+Mercado Libre declaran que se someten como medio de solucion de controversias
+a la mediacion realizada por MercadoLibre a traves de sus Plataformas, de
+conformidad con las reglas del Programa de Compra Protegida (CP) o del
+Programa de Proteccion al Vendedor (PPV), segun el caso y cuando los mismos
+resulten aplicables. En aquellos casos en los que no resulten aplicables los
+programas de CP o PPV, podras iniciar las acciones correspondientes a traves
+del sistema CONCILIANET de la Procuraduria Federal del Consumidor ("PROFECO")
+y/o ante las Delegaciones de la PROFECO competentes en ejercicio de los
+derechos consagrados a tu favor en la Ley Federal de Proteccion al Consumidor.
+En caso que por cualquier motivo se considerare a la PROFECO como incompetente
+para dirimir la controversia planteada, podras ejercer las acciones
+correspondientes ante la autoridad competente, renunciando expresamente a
+cualquier otro fuero y/o jurisdiccion que pudiera corresponderte.
+
+  
+  
+
+* * * *
+
+  
+  
+
+### ANEXO PARA URUGUAY
+
+  
+
+Lo dispuesto en este anexo es de aplicacion exclusiva para los usuarios y
+visitantes domiciliados en la Republica Oriental del Uruguay. En caso de
+contradiccion entre lo dispuesto en el texto principal de las Politicas de
+Privacidad y este anexo, regira para los usuarios y visitantes domiciliados en
+la Republica Oriental del Uruguay lo dispuesto en este anexo.
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+En la Republica Oriental del Uruguay los Servicios de Mercado Libre son
+prestados por Deremate.com de Uruguay S.R.L., R.U.T: 21411170001, con
+domicilio en la Calle Dr. Luis Bonavita 1266 Piso 39, Ciudad de Montevideo,
+Uruguay, y es el responsable del tratamiento de los datos personales que
+recabemos de ti.
+
+8\. **Decisiones automatizadas y elaboraci on de perfiles **
+
+Los perfiles y los algoritmos que se utilizan para la realizacion de los
+perfiles son validados continuamente con el fin de reducir los resultados
+falsos. Podras ejercer los derechos de acceso, rectificacion, actualizacion,
+inclusion y supresion de tu Informacion Personal conforme los medios previsto
+en esta Declaracion de Privacidad, asi como, obtener informacion sobre los
+criterios de valoracion y del programa utilizado para la realizacion de
+perfiles, o realizar impugnaciones conforme lo previsto por el articulo 16 de
+la Ley N° 18.331.
+
+13\. **¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal? **
+
+En cumplimiento de lo dispuesto por las disposiciones de la Ley N° 18.331, el
+Decreto Reglamentario N° 414/009 y demas normativa aplicable concordante y
+modificativa, se comunica que todo titular de datos personales que previamente
+acredite su identificacion tiene derecho a obtener toda la informacion que
+sobre si mismo se halle en bases de datos publicas o privadas. Este derecho de
+acceso solo podra ser ejercido en forma gratuita a intervalos de seis (6)
+meses, salvo que se hubiere suscitado nuevamente un interes legitimo de
+acuerdo con el ordenamiento juridico.
+
+La URCDP, en su caracter de Órgano de Control de la ley N° 18.331, tiene la
+atribucion de asistir y asesorar a las personas que lo requieran acerca de los
+alcances de la presente ley y de los medios legales de que disponen para la
+defensa de los derechos que esta garantiza.
+
+En la recopilacion de domicilios, reparto de documentos, publicidad,
+prospeccion comercial, venta u otras actividades analogas, se podran tratar
+datos que sean aptos para establecer perfiles determinados con fines
+promocionales, comerciales o publicitarios; o que permitan establecer habitos
+de consumo, cuando estos figuren en documentos accesibles al publico o hayan
+sido facilitados por los propios titulares u obtenidos con su consentimiento.
+En dichos supuestos, el titular de los datos podra ejercer el derecho de
+acceso sin cargo alguno y en cualquier momento solicitar el retiro o bloqueo
+de sus datos de los bancos de datos referidos.
+
+Sin perjuicio de lo dispuesto en las Politicas de Privacidad, tambien podras
+realizar consultas y/o ejercer los derechos de acceso, rectificacion,
+actualizacion, inclusion y supresion de tu Informacion Personal por correo
+postal a Calle Dr. Luis Bonavita 1266 Piso 39, Ciudad de Montevideo, Uruguay
+Atte.: Deremate.com de Uruguay S.R.L.
+
+15\. **Seguridad. Almacenamiento de la Informaci on Personal**
+
+La Informacion Personal sera tratada con el grado de proteccion adecuado,
+tomandose las medidas de seguridad necesarias para evitar su alteracion,
+perdida, tratamiento o acceso no autorizado por parte de terceros.
+
+Si el responsable o encargado de la base de datos, tomara conocimiento de la
+ocurrencia de una vulneracion de seguridad, te informaremos inmediata y
+pormenorizadamente de dicha circunstancia, asi como de las medidas que
+adoptemos. Tambien lo informaremos a la Unidad Reguladora y de Control de
+Datos Personales, la que coordinara el curso de accion que corresponda, con el
+Centro Nacional de Respuesta a Incidentes de Seguridad Informatica del Uruguay
+(CERTuy).
+
+17\. **Ley Aplicable y Jurisdicci on**
+
+Las Politicas de Privacidad se regiran por las leyes de la Republica Oriental
+del Uruguay. Ante cualquier controversia o divergencia relacionada con la
+interpretacion, validez, celebracion o cumplimiento de las mismas, tu y
+Mercado Libre declaran que se someten a la jurisdiccion exclusiva de los
+Tribunales Ordinarios de la Ciudad de Montevideo, renunciando expresamente a
+cualquier otro fuero y/o jurisdiccion que pudiera corresponderles.
+
+  
+
+* * * *
+
+  
+
+### ANEXO LATINOAMÉRICA
+
+  
+
+Lo dispuesto en este anexo es de aplicacion exclusiva para los usuarios y
+visitantes domiciliados en aquellos paises que no tengan un anexo especifico
+en esta Declaracion de Privacidad
+
+2\. **¿ Quien es el responsable del tratamiento de la Informacion Personal?**
+
+El responsable del tratamiento de los datos personales que recabemos de ti es:
+
+En **Chile** : Mercado Pago S.A, R.U.T. 76.516.950-K, Av. Apoquindo 4800,
+Torre 2, piso 21, Las Condes, Santiago - Chile.
+
+En **Costa Rica** : Mercado Libre Costa Rica S.R.L. el situado en el Centro
+Empresarial Forum, Edificio C, Oficina 1 C 1, Pozos de Santa Ana, San Jose,
+Costa Rica
+
+En **Ecuador** : Mercado Libre Ecuador Cia. Ltda. en la Av. Amazonas N39-61
+(45-45) y Alfonso Pereyra, Edificio Centro Financiero, Piso 3°, Oficina 315 de
+la Ciudad de Quito
+
+En **Per u**: Mercado Libre Peru S.R.L., RUC No. 20462540745, calle German
+Schreiber Gulsmanco Nº276, San Isidro, Lima, Peru.
+
+En **Venezuela** : MercadoLibre Venezuela S.R.L., calle Eugenio Mendoza con
+Jose Angel Lamas, Edif. Torre la Castellana, Piso 8, Zona Postal 1060,
+Caracas, Venezuela.
+
+13\. **¿ Como puedes ejercer tus derechos para controlar tu Informacion
+Personal?**
+
+Sin perjuicio de lo indicado en esta Declaracion de Privacidad, tambien tienes
+derecho a presentar una queja ante una autoridad de proteccion de datos:
+
+**Costa Rica** : Agencia de Proteccion de Datos de los Habitantes.
+
+**Panam a**: Autoridad Nacional de Transparencia y Acceso a la Informacion.
+
+**Per u**: Autoridad Nacional de Transparencia y Acceso a la Informacion
+Publica.

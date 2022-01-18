@@ -1,0 +1,260 @@
+# Política para el tratamiento de datos personales
+
+# I. POLÍTICA DE PRIVACIDAD
+
+## 1\. Alcance
+
+Esta política de privacidad se aplica a todos los datos personales de la
+ciudadanía recolectados a través de los portales web del Ministerio de
+Gobierno (MDG).
+
+## 2\. Datos que se recolecta
+
+De manera general, en los portales web del Ministerio de Gobierno se recopila
+en línea los siguientes datos personales de la ciudadanía:
+
+  * Comportamiento de navegación en la página.
+  * Datos aproximados de ubicación desde donde se accede al sitio (ciudad y país).
+  * Sistema operativo y navegador utilizado.
+  * Dispositivo que utiliza para acceder al portal.
+
+
+
+De manera específica, en cada portal web del Ministerio de Gobierno se
+registran en línea los siguientes datos personales de la ciudadanía:
+
+**Portal** **Datos que se recopilan**  
+**Sistema de reclutamiento en línea de la Policía Nacional del Ecuador**
+https://reclutamiento.ministeriodegobierno.gob.ec/reclutamiento Número de
+documento de identidad
+
+Correo electrónico
+
+Estatura Provincia de domicilio.
+
+Ecuatoriano por (por nacimiento o naturalización).  
+**Sistema de permisos de funcionamiento del Ministerio de Gobierno**
+https://sitmint.ministeriodegobierno.gob.ec/permiso-funcionamiento País de
+nacimiento.
+
+Número de cédula.
+
+Apellidos. Nombres.
+
+Fecha de nacimiento.
+
+Indicador dactilar.  
+**Certificados de antecedentes penales del Ministerio de Gobierno**
+http://certificados.ministeriodegobierno.gob.ec/gestorcertificados/antecedentes/
+Número de documento de identidad.  
+**Certificados de no haber pertenecido a la Policía Nacional**
+http://certificados.ministeriodegobierno.gob.ec/certificado-de-no-baja Número
+de documento de identidad.  
+**Sistema de compañías de seguridad privada (SICOSEP)**
+https://sicosep.ministeriodegobierno.gob.ec RUC.
+
+Representante legal.
+
+Dirección de la compañía. Teléfono de la compañía.
+
+Correo electrónico  
+**Módulo de consulta de impedimentos de salida del país del sistema migratorio
+Ecuatoriano (SIMIEC)**
+
+https://simiec.migracion.gob.ec:7445/consultaImpedimentos/ Número de documento
+de identidad. Fecha de nacimiento.
+
+  
+**Sistema de saldos de empresas que manejan sustancias catalogadas (SISALEM)**
+
+https://sistemas.ministeriodegobierno.gob.ec:8443/Sisalem/ RUC.
+
+Razón social.
+
+Representante legal. Representante técnico.
+
+Teléfonos de contacto.
+
+Correo electrónico.  
+**Sistema para procedimientos internacionales de contratación**
+
+https://procesos.ministeriodegobierno.gob.ec/procedimiento-internacional
+Nombre oferente
+
+Nombre del representante legal
+
+Documento de identificación del representante legal Ciudad
+
+Dirección
+
+Teléfono
+
+Correo electrónico de contacto
+
+Nombre de usuario  
+**Sistema de emisión de autorizaciones e informes de seguridad (SEAIS)**
+
+http://seais.ministeriodegobierno.gob.ec Nombre de la Institución Pública
+
+Modalidad de Desconcentración
+
+Calle Principal /Calle Secundaria Número/Punto de Referencia
+
+Número de documento de identidad. Nombre
+
+Cargo que desempeña
+
+Correo Electrónico Institucional
+
+Correo Electrónico Personal
+
+Teléfonos de contacto  
+**Sistema de registro de personas desaparecidas**
+
+http://desaparecidosecuador.gob.ec/
+
+**** Nombre
+
+Teléfono oficina
+
+Teléfono móvil
+
+Teléfono domicilio Correo electrónico
+
+Dirección
+
+Actividad a la que se dedica  
+**Sistema Meta-Microdatos**
+
+http://181.113.21.13:8080/registroinicial-war/metaMicrodatos.html Nombre
+
+Empresa, Institución o Escuela Teléfono
+
+Correo electrónico  
+  
+
+
+## 3\. Finalidad
+
+  * Utilizamos su información para mejorar el contenido, uso y experiencia de los usuarios que acceden al portal https://www.ministeriodegobierno.gob.ec del Ministerio de Gobierno (MDG).
+  * En el sistema de reclutamiento, utilizamos su información para los procesos de reclutamiento, selección e ingreso de personal que lleva a cabo el Ministerio de Gobierno y la Policía Nacional.
+  * En el sistema SITMINT, utilizamos su información para generar e imprimir los permisos de funcionamiento de locales regulados por el Ministerio de Gobierno.
+  * En el sistema de certificados de antecedentes penales del Ministerio de Gobierno, utilizamos su información para consulta y emisión del certificado de antecedentes penales.
+  * En el sistema de certificados de no haber pertenecido a la Policía Nacional, utilizamos su información para consulta y emisión del certificado de no haber pertenecido a la Policía Nacional.
+  * En el sistema SICOSEP, utilizamos su información para emisión de permisos para las compañías de seguridad privada.
+  * En el sistema SIMIEC, utilizamos su información para consultar, si tiene o no, impedimento de salida del país.
+  * En el sistema SISALEM, utilizamos su información para realizar el registro, consultas y autorizaciones de personas naturales y jurídicas calificadas para el manejo y transporte de sustancias catalogadas.
+  * En el sistema para procedimientos internacionales de contratación, utilizamos su información para el registro en los procesos de contratación pública internacional del Ministerio de Gobierno.
+  * En el sistema SEAIS, utilizamos su información, para el proceso de emisión de autorizaciones e informes de seguridad privada.
+  * En el sistema de desaparecidos Ecuador, utilizamos su información para mantener un registro de contacto de familiares o personas que hayan identificado a una persona desaparecida y puedan brindar información a los agentes de investigación de la Policía Nacional del Ecuador.
+  * En el sistema Meta-Microdatos, utilizamos su información para mantener un registro de identificación de datos y acceso, este es un sistema de consulta estadística oficial sobre detenidos a nivel nacional y homicidios intencionales.
+
+
+
+_Datos personales de niños:_ __
+
+Únicamente en el portal
+https://simiec.migracion.gob.ec:7445/consultaImpedimentos/, se permite la
+consulta de datos de menores de edad, esta información es utilizada solamente
+a manera de consulta para conocer si tiene o no impedimento de salida del
+país.
+
+****
+
+## 4\. Proceso para ejercer derecho de acceso y rectificación
+
+Se reconoce a los titulares de datos personales el acceso y rectificación al
+tratamiento que se realice sobre sus datos, para lo cual debe ingresar al
+sistema de _contacto ciudadano_ , elegir el botón <Quejas> y seleccionar el
+tipo de requerimiento: Derecho de Acceso, o Derecho de Rectificación.
+
+
+
+Debe llenar todos los campos requeridos en el formulario que se despliega, y
+finalmente presionar el botón <Aceptar>.
+
+
+
+El Ministerio de Gobierno analiza si el pedido es procedente o no y comunica
+al titular notificando dicho particular.
+
+
+
+## 5\. Notificaciones cuando existan cambios en la política de privacidad
+
+El Ministerio de Gobierno puede actualizar su política de privacidad cuando
+sea necesario. Si realizamos cambios sustanciales, le notificaremos mediante
+un aviso en este sitio web https://www.ministeriodegobierno.gob.ec antes de
+que el cambio entre en vigencia. Le recomendamos que revise periódicamente
+esta página para obtener información reciente sobre nuestras prácticas de
+privacidad.
+
+
+
+## 6\. Uso de cookies
+
+El Ministerio de Gobierno puede utilizar sus datos personales, incluidos los
+datos recopilados como resultado de la navegación del sitio y los protocolos y
+registros electrónicos para ayudar a mejorar la calidad, crear y personalizar
+el contenido del sitio web, además de realizar un seguimiento de la capacidad
+de respuesta de los servicios entregados.
+
+
+
+Los Portales web del Ministerio de Gobierno utilizan las cookies para mejorar
+la navegación y la calidad del sitio web. No compartimos sus datos personales
+sin su consentimiento. Cuando hace clic o interactúa con un anuncio o banner,
+existe la posibilidad de que el propietario de este recurso pueda colocar una
+cookie en su navegador con sus propias condiciones de uso.
+
+
+
+## 7\. Medidas para precautelar la seguridad de los datos personales
+
+El Ministerio de Gobierno, protege la confidencialidad, integridad y
+disponibilidad de los activos de información al seguir un enfoque de
+administración de riesgos basado en políticas, estándares, pautas y
+procedimientos para cumplir con los objetivos de seguridad al tiempo que
+respalda los objetivos.
+
+
+
+
+
+El Ministerio de Gobierno utiliza el protocolo HTTPS para brindar seguridad en
+el uso de los canales electrónicos que requieran un nivel mayor de seguridad.
+
+
+
+## 8\. Base legal que sustenta el tratamiento de los datos
+
+El tratamiento que se da a los datos personales de los ciudadanos que acceden
+a través de los portales web del Ministerio de Gobierno; se fundamenta en los
+siguientes instrumentos legales:
+
+
+
+  * _Decreto Ejecutivo No. 1384, diciembre 2012, **Artículo 1.-** “Establecer como política pública el desarrollo de la interoperabilidad gubernamental que consiste en el esfuerzo mancomunado y permanente de todas las entidades de la Administración Pública Central, para compartir e intercambiar entre ellas, por medio de las tecnologías de la información y comunicación, datos e información electrónicos que son necesarios en la prestación de los trámites y servicios ciudadanos que presentan las entidades, así como en la gestión interna e interinstitucional”._
+
+
+
+  * _COESCCi, Disposiciones Generales, VIGÉSIMA SEPTIMA.- “(…) El tratamiento de datos personales que incluya acciones tales como la recopilación, sistematización y almacenamiento de datos personales, requerirá la autorización previa e informada del titular. No se requerirá de la autorización del titular cuando el tratamiento sea desarrollado por una institución pública y tenga una finalidad estadística o científica; de protección a la salud o seguridad; o sea realizado como parte de una política pública de garantía de derechos constitucionalmente reconocidos (…)”._
+
+
+
+  * Guía para la protección de datos personales en la Administración Pública Central, emitido por el MINTEL mediante Acuerdo Ministerial 012-2019 del 11 de junio de 2019.
+
+
+
+# II. TÉRMINOS Y CONDICIONES DE USO
+
+  * El uso de los portales web del Ministerio de Gobierno o de cualquiera de sus componentes, implica la aceptación expresa de los presentes términos y condiciones de Uso.
+  * El Ministerio de Gobierno dispone de estos portales web para informar a los ciudadanos sobre la gestión que lleva adelante en lo relacionado con; articulación con la Policía Nacional, control del orden público, servicio y control migratorio, control y administración de sustancias catalogadas sujetas a fiscalización, protección interna, seguridad ciudadana, estudios de seguridad y gobernabilidad, gestión política para la gobernabilidad y prevención del conflicto, articulación intra e intergubernamental y la articulación entre funciones del Estado.
+  * El Ministerio de Gobierno, solamente es responsable del tratamiento y uso de los datos personales que recabe en forma directa a través de sus portales web. No asumimos cualquier responsabilidad que pueda generar al usuario el uso inadecuado o contrario a los fines de los canales electrónicos señalados.
+
+_Son obligaciones del usuario:_
+
+  * No dañar, inutilizar, modificar o deteriorar los canales electrónicos a los que está teniendo acceso, ni los contenidos incorporados y almacenados en éstos.
+  * No utilizar versiones de sistemas modificados con el fin de obtener accesos no autorizados a cualquier canal electrónico, contenidos y a servicios ofrecidos a través de estos.
+  * No interferir ni interrumpir el acceso, funcionalidad y utilización de canales electrónicos y redes conectados al mismo.
+

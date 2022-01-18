@@ -1,0 +1,181 @@
+#### I. POLÍTICA DE PRIVACIDAD
+
+**Alcance:**
+
+Esta política de protección y tratamiento de datos de carácter personal se
+aplica a todos los datos personales que se recolecte, almacene, maneje y use
+en el acceso a los portales y sistemas web que tiene habilitado el Ministerio
+de Telecomunicaciones y de la Sociedad de la Información MINTEL, que se
+detallan a continuación.
+
+  * www.telecomunicaciones.gob.ec
+  * tdtecuador.mintel.gob.ec
+  * observatorioecuadordigital.mintel.gob.ec
+  * plansociedadinformacion.mintel.gob.ec
+  * infocentros.mintel.gob.ec
+  * www.gobiernoelectronico.gob.ec
+  * www.softwarepublico.gob.ec
+  * www.firmadigital.gob.ec
+  * www.gob.ec
+  * siadi.mintel.gob.ec
+
+Esta política es de acceso público, motivo por el cual, cualquier persona, en
+relación con el Tratamiento de los Datos Personales y la protección de su
+información contenida en las Bases de Datos, puede acceder a su información en
+la medida que la misma se encuentre publicada.
+
+**Datos que se recolecta:**
+
+En los portales y sistemas en ambiente web del Ministerio de
+Telecomunicaciones y de la Sociedad de la Información MINTEL, acorde a la
+funcionalidad que accede el ciudadano en los diferentes portales, se recolecta
+la siguiente información:
+
+
+
+**PORTAL WEB** **DATOS QUE SE RECOLECTA**  
+www.telecomunicaciones.gob.ec - Comportamiento de navegación en la página,  
+- Datos de ubicación desde donde se accede al sitio (ciudad y país),  
+- Sistema operativo y Navegador utilizado,  
+- Dispositivo que utiliza para acceder al portal.  
+www.gobiernoelectronico.gob.ec  
+tdtecuador.mintel.gob.ec  
+observatorioecuadordigital.mintel.gob.ec  
+plansociedadinformacion.mintel.gob.ec  
+infocentros.mintel.gob.ec  
+www.softwarepublico.gob.ec  
+www.firmadigital.gob.ec  
+www.gob.ec  
+siadi.mintel.gob.ec  
+www.gestiondocumental.gob.ec  
+cti.gobiernoelectronico.gob.ec - Comportamiento de navegación en la página,  
+- Datos de ubicación desde donde se accede al sitio (ciudad y país),  
+- Sistema operativo y Navegador utilizado,  
+- Dispositivo que utiliza para acceder al portal.  
+_• Datos personales: Número de cédula, nombres y apellidos, correo electrónico
+personal o institucional.  
+• Datos de acceso: Nombre de usuario, contraseña (cifrada).  
+• IP desde donde se accede  
+• Fecha y hora de acceso  
+• Fecha de nacimiento  
+• Estado civil_  
+  
+
+
+El MINTEL no comparte información sobre datos personales de los ciudadanos a
+terceros.
+
+**Finalidad:**
+
+Se utiliza la información del ciudadano en los portales o sistemas web, para:
+
+  * Mejorar el contenido, usabilidad y experiencia de los ciudadanos/usuarios en los portales y sistemas web.
+  * Recibir retroalimentación del ciudadano sobre la información que se publica.
+
+**Proceso para ejercer derecho de Acceso y Rectificación:**
+
+Se reconoce a los titulares de datos personales el _Acceso y Rectificación_ al
+tratamiento que se realice sobre la información de sus datos personales.
+
+Para realizar estas solicitudes de actualización, se debe ingresar a la
+pestaña “Contacto ciudadano” ubicada en el pie de la página web, o ingresar al
+menú de cada sitio web y seleccionar la opción “Contacto”, inmediatamente se
+debe elegir el botón “Quejas” y seleccionar el tipo de requerimiento según sea
+requerido: Derecho de Acceso, o Derecho de Rectificación.
+
+Se debe completar todos los campos requeridos en el formulario indicado, y
+finalmente presionar el botón “Aceptar”.
+
+El Ministerio de Telecomunicaciones y de la Sociedad de la Información analiza
+si el pedido es procedente o no y comunica al titular notificando dicho
+particular.
+
+**Notificaciones cuando existan cambios en la política de privacidad:**
+
+El MINTEL puede actualizar su Política de Privacidad cuando sea necesario. Si
+se realiza cambios sustanciales, se procederá a notificar mediante un aviso en
+el respectivo portal o sistema web.
+
+**Uso de cookies:**
+
+Los portales web del MINTEL utilizan “cookies” para mejorar la navegación,
+calidad del sitio web y experiencia del ciudadano.
+
+Cuando el usuario interactúa con el portal, el MINTEL puede colocar un cookie
+en su navegador para mejorar la experiencia.
+
+No se comparte información sobre sus datos personales.
+
+**Medidas para precautelar la seguridad de los datos personales:**
+
+El MINTEL utiliza el protocolo HTTPS para brindar seguridad en el uso de este
+canal electrónico y manejar los riesgos, acorde lo que se indica en el
+“Esquema Gubernamental de Seguridad de la Información”, EGSI.
+
+Se mantendrá protocolos de seguridad de estricto cumplimiento, que garanticen
+que los usuarios con acceso a datos personales, no puedan divulgar esta
+información.
+
+**Base legal que sustenta el tratamiento de los datos** :
+
+El MINTEL, fundamenta el tratamiento que da a los datos personales de los
+ciudadanos que visitan sus sitios web, bajo los siguientes instrumentos
+legales:
+
+  * Normativa vigente: Acuerdo Ministerial No.012-2019
+  * Esquema Gubernamental de Seguridad de la Información (EGSI): Acuerdo Ministerial No.166
+  * Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos (Ley No. 2002-67).
+  * Plan de la Sociedad de la Información y del Conocimiento: Acuerdo Ministerial Nro. 016-2018
+  * CÓDIGO ORGÁNICO DE LA ECONOMÍA SOCIAL DE LOS CONOCIMIENTOS, CREATIVIDAD E INNOVACIÓN. Disposiciones Generales del Título IV, literal número VIGÉSIMA SEPTIMA.- “… El tratamiento de datos personales que incluya acciones tales como la recopilación, sistematización y almacenamiento de datos personales, requerirá la autorización previa e informada del titular. No se requerirá de la autorización del titular cuando el tratamiento sea desarrollado por una institución pública y tenga una finalidad estadística o científica; de protección a la salud o seguridad; o sea realizado como parte de una política pública de garantía de derechos constitucionalmente reconocidos…”.
+
+#### II. TÉRMINOS Y CONDICIONES DE USO
+
+El uso de este portal o de cualquiera de sus componentes, implica la
+aceptación expresa de los presentes Términos y condiciones de uso.
+
+El MINTEL dispone de los portales y sistemas web para prestar información a
+los ciudadanos sobre la gestión que lleva adelante relacionada con el Gobierno
+Electrónico, Plan de la Sociedad y del Conocimiento, Proyecto Infocentros
+Comunitarios.
+
+_Responsabilidad:_
+
+El MINTEL solamente es responsable del tratamiento y uso de los datos
+personales que recabe en forma directa a través de los portales y sistemas
+web. No se asume cualquier responsabilidad que pueda generar al usuario por
+cualquier uso inadecuado o contrario a los fines de este canal electrónico.
+
+_Son obligaciones del usuario:_
+
+  * No dañar, inutilizar, modificar o deteriorar los canales electrónicos a los que está teniendo acceso, ni los contenidos incorporados y almacenados en éstos.
+  * No utilizar versiones de sistemas modificados con el fin de obtener accesos no autorizados a cualquier canal electrónico, contenido y/o servicios ofrecidos a través de estos.
+  * No interferir ni interrumpir el acceso, funcionalidad y utilización de canales electrónicos y redes conectados al mismo.
+
+## Comparte esta publicación:
+
+__Tweet __Compartir __Imprimir __Mail
+
+## Entérate
+
+  1. _¡Sé uno de ellos!_
+  2.  _Consulta tu Centro de Vacunación_
+  3.  __
+
+Contacto Ciudadano
+
+Portal Trámites Ciudadanos
+
+Sistema Nacional de Información (SNI)
+
+# pie de pagina
+
+Av. 6 de Diciembre N25-75 y Av. Colón  
+Código Postal: 170517 / Quito - Ecuador  
+Telefono: 1800 637276
+
+Este sitio web utiliza cookies para que usted tenga la mejor experiencia de
+usuario. Si continúa navegando está dando su consentimiento para la aceptación
+de las mencionadas cookies y la aceptación de nuestra ACEPTAR
+
+Aviso de cookies
+
