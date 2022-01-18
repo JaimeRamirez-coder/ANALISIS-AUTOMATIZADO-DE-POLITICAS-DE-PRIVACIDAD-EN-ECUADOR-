@@ -1,0 +1,331 @@
+Fecha de recoleccion: 2021-08-26
+
+
+# POLÍTICA DE PRIVACIDAD
+
+* * *
+
+**La Universidad de Las Américas** (en adelante "la Universidad") busca
+garantizar la protección de los datos personales o de cualquier otro tipo de
+información que sea utilizada o repose en sus bases de datos y archivos,
+garantizando el Derecho Constitucional que tienen todas las personas a
+conocer, actualizar y rectificar la información que se hubiera registrado
+sobre ellas en bases de datos o archivos. Todo esto en desarrollo de lo
+establecido en la Constitución de la República del Ecuador, Ley de Comercio
+Electrónico, Firmas Electrónicas y Mensajes de Datos, Ley del Sistema Nacional
+de Registro de Datos Públicos, Código Orgánico Integral Penal y demás decretos
+reglamentarios.
+
+Este documento busca establecer los criterios para la obtención, recolección,
+uso, tratamiento, procesamiento, intercambio, transferencia y transmisión de
+datos personales, y fijar las responsabilidades de la Universidad y de sus
+empleados en el manejo y tratamiento de los datos personales que reposen en
+sus bases de datos y archivos.
+
+Serán objeto de protección con base en la presente directriz, aquellas
+personas que, en ejercicio de cualquier actividad, incluyendo las académicas,
+laborales y comerciales, sean estas permanentes u ocasionales, puedan
+suministrar cualquier tipo de información o dato personal a la Universidad,
+quien actúa en calidad de Responsable del Tratamiento de datos personales, y
+quien deberá permitir al Titular de la información, conocerla, actualizarla y
+rectificarla.
+
+* * *
+
+## PRINCIPIOS PARA EL TRATAMIENTO DE DATOS PERSONALES
+
+En el desarrollo, interpretación y aplicación de la Ley de Comercio
+Electrónico, Firmas Electrónicas y Mensajes de Datos, por la cual se dictan
+disposiciones generales para la protección de datos personales y las normas
+que la complementan, modifican o adicionan, se aplicarán de manera armónica e
+integral los siguientes principios rectores, en la recolección, manejo, uso,
+tratamiento, almacenamiento e intercambio de datos personales:
+
+  * Principio de libertad
+  * Principio de veracidad
+  * Principio de transparencia
+  * Principio de seguridad
+  * Principio de acceso y circulación restringida
+  * Principio de confidencialidad
+
+* * *
+
+## DERECHOS QUE LE ASISTEN AL TITULAR DE LA INFORMACIÓN
+
+El Titular de los datos personales tendrá los siguientes derechos:
+
+  * Conocer, actualizar y rectificar sus datos personales ante la Universidad. Este derecho se podrá ejercer, entre otros, respecto a datos parciales, inexactos, incompletos, fraccionados, que induzcan a error, o aquellos cuyo tratamiento esté expresamente prohibido o no haya sido autorizado.
+  * Solicitar prueba de la autorización otorgada a la Universidad, salvo en los casos expresamente exceptuados en la Ley.
+  * Ser informado por la Universidad, previa solicitud, respecto del uso que le ha dado a sus datos personales.
+  * Revocar la autorización y/o solicitar la supresión del dato, cuando en el tratamiento no se respeten los principios, derechos y garantías constitucionales y legales. Exceptuando los casos en que el Titular tenga un deber legal o contractual de permanecer en la base de datos del Responsable del Tratamiento.
+  * Acceder en forma gratuita a sus datos personales que hayan sido objeto de tratamiento.
+  * La información solicitada por el Titular podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el Titular.
+  * La Universidad deberá poner a disposición del Titular de la información, mecanismos gratuitos y de fácil acceso para presentar la solicitud de supresión de datos o la revocatoria de la autorización.
+
+* * *
+
+## DEBERES DE LA UNIVERSIDAD COMO RESPONSABLE DEL TRATAMIENTO DE DATOS
+PERSONALES
+
+En virtud de la presente Política de Tratamiento y Protección de Datos
+Personales son deberes de la Universidad cuando actúa como Responsable del
+Tratamiento de datos personales, los siguientes:
+
+  * Garantizar al Titular, en todo tiempo, el pleno y efectivo ejercicio del derecho de hábeas data; Solicitar y conservar, copia de la respectiva autorización otorgada por el Titular;
+  * Informar debidamente al Titular sobre la finalidad de la recolección y los derechos que le asisten por virtud de la autorización otorgada;
+  * Conservar la información bajo las condiciones de seguridad necesarias para impedir su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento;
+  * Garantizar que la información que se suministre al Responsable del Tratamiento sea veraz, completa, exacta, actualizada, comprobable y comprensible;
+  * Actualizar la información, comunicando de forma oportuna al Responsable del Tratamiento, todas las novedades respecto de los datos que previamente le haya suministrado y adoptar las demás medidas necesarias para que la información suministrada a éste se mantenga actualizada;
+  * Rectificar la información cuando sea incorrecta y comunicar lo pertinente al Responsable del Tratamiento; Suministrar al Responsable del Tratamiento, según el caso, únicamente datos cuyo Tratamiento esté previamente autorizado;
+  * Exigir al Responsable del Tratamiento en todo momento, el respeto a las condiciones de seguridad y privacidad de la información del Titular;
+  * Tramitar las consultas y reclamos formulados;
+  * Informar al Responsable del Tratamiento cuando determinada información se encuentra en discusión por parte del Titular, una vez se haya presentado la reclamación y no haya finalizado el trámite respectivo;
+  * Informar a solicitud del Titular sobre el uso dado a sus datos;
+  * Informar a la Dirección Nacional de Registro de Datos Públicos de protección de datos cuando se presenten violaciones a los códigos de seguridad y existan riesgos en la administración de la información de los Titulares.
+
+* * *
+
+## AUTORIZACIÓN DEL TITULAR
+
+El Responsable del Tratamiento deberá adoptar procedimientos para solicitar, a
+más tardar en el momento de la recolección de sus datos, la autorización
+previa, expresa e informada del Titular para el Tratamiento de los mismos y
+comunicarle los datos personales que serán recolectados, así como todas las
+finalidades específicas del Tratamiento para las cuales se obtiene el
+consentimiento. La recolección de datos deberá limitarse a aquellos datos
+personales que sean pertinentes y adecuados para la finalidad para la cual son
+recolectados y deberá ser obtenida por cualquier medio que pueda ser objeto de
+consulta y verificación posterior por parte del Titular.
+
+Al respecto, el Art. 6 de la Ley del Sistema Nacional de Registro de Datos
+Públicos, dispone:
+
+> "Son confidenciales los datos de carácter personal, tales como: ideología,
+> afiliación política o sindical, etnia, estado de salud, orientación sexual,
+> religión, condición migratoria y los demás atinentes a la intimidad personal
+> y en especial aquella información cuyo uso público atente contra los
+> derechos humanos consagrados en la Constitución e instrumentos
+> internacionales.
+>
+> El acceso a estos datos sólo será posible con autorización expresa del
+> titular de la información, por mandato de la ley o por orden judicial.
+>
+> También son confidenciales los datos cuya reserva haya sido declarada por la
+> autoridad competente, los que estén amparados bajo sigilo bancario o
+> bursátil, y los que pudieren afectar la seguridad interna o externa del
+> Estado. La autoridad o funcionario que por la naturaleza de sus funciones
+> custodie datos de carácter personal, deberá adoptar las medidas de seguridad
+> necesarias para proteger y garantizar la reserva de la información que
+> reposa en sus archivos (..)".
+
+Por su parte, la cláusula séptima de las Disposiciones Generales del
+Reglamento a la Ley del Sistema Nacional de Registro de Datos Públicos,
+establece:
+
+> "(...) 2. Datos accesibles. - Es toda información que no tiene el carácter
+> de confidencial conforme a la Ley.
+>
+> Datos confidenciales. - Es toda información a la que solo los titulares
+> pueden acceder tales como los datos personales especialmente protegidos que
+> se refieren a: ideología, afiliación política o sindical, etnia, estado de
+> salud, orientación sexual, religión, condición migratoria y los demás
+> atinentes a la intimidad personal y en especial aquella información cuyo uso
+> público atente contra los derechos humanos consagrados en la Constitución de
+> la República e instrumentos internacionales.
+>
+> Datos públicos. - Exclusivamente en el ámbito de la Ley Orgánica del Sistema
+> Nacional de Registro de Datos Públicos, se entenderá como datos públicos, a
+> todo acto y/ o información relativa a las personas naturales o jurídicas,
+> sus bienes o patrimonio, sean estos accesibles o confidenciales, generadas
+> del sector público o privado (...)".
+
+### EVENTOS EN LOS CUALES NO ES NECESARIA LA AUTORIZACIÓN DEL TITULAR DE LOS
+DATOS PERSONALES
+
+La autorización del Titular de la información no será necesaria cuando se
+trate de:
+
+  * Información requerida por una entidad pública o administrativa en ejercicio de sus funciones legales o por orden judicial;
+  * Datos de naturaleza pública;
+  * Casos de urgencia médica o sanitaria;
+  * Tratamiento de información autorizado por la Ley para fines históricos, estadísticos o científicos.
+
+### LEGITIMACIÓN PARA EL EJERCICIO DEL DERECHO DEL TITULAR
+
+Los derechos de los Titulares podrán ejercerse por las siguientes personas:
+
+  * Por el Titular, quien deberá acreditar su identidad en forma suficiente por los distintos medios que le ponga a disposición la Universidad.
+  * Por los causahabientes del Titular (en los casos que éste falte por muerte o incapacidad), quienes deberán acreditar tal calidad.
+  * Por el representante y/o apoderado del Titular, previa acreditación de la representación o poder correspondiente.
+  * Por poder otorgado por el Titular a favor de un tercero.
+
+* * *
+
+## MODO DE OTORGAR LA AUTORIZACIÓN
+
+La autorización del Titular puede constar en un documento físico, electrónico
+(mensaje de datos, Internet, sitios web), o en cualquier otro formato que
+permita garantizar su posterior consulta. Asimismo, podrá otorgarse mediante
+un mecanismo técnico o tecnológico idóneo, que permita manifestar su
+consentimiento electrónicamente, para concluir de manera inequívoca que, de no
+haberse surtido una conducta del Titular, los datos nunca hubieren sido
+capturados y almacenados en la base de datos.
+
+### PRUEBA DE LA AUTORIZACIÓN
+
+La Universidad dispondrá de los medios tecnológicos o físicos con que cuenta
+actualmente, e implementará y adoptará las acciones tendientes y necesarias
+para mantener registros o mecanismos técnicos o tecnológicos idóneos, que
+permitan demostrar cuándo y cómo se obtuvo la autorización por parte de los
+Titulares. Para dar cumplimiento a lo anterior, se podrán establecer archivos
+físicos o repositorios electrónicos realizados de manera directa o a través de
+terceros contratados para tal fin.
+
+* * *
+
+## REVOCATORIA DE LA AUTORIZACIÓN
+
+Los Titulares de los datos personales pueden en cualquier momento revocar el
+consentimiento al tratamiento de sus datos personales, siempre y cuando el
+Titular no tenga un deber legal o contractual de permanecer en la base de
+datos. La presente revocatoria deberá ser solicitada por el Titular a través
+del correo electrónico usodedatos@.udla.edu.ec
+
+* * *
+
+## AVISO DE PRIVACIDAD
+
+El Aviso de Privacidad es la comunicación verbal y/o escrita generada por el
+Responsable del Tratamiento, dirigida al Titular a través de un medio físico,
+electrónico o en cualquier otro formato conocido o por conocer, que es puesto
+a disposición de este para el tratamiento de sus datos personales. A través de
+este documento se comunica al Titular, la información relativa a la existencia
+de las políticas de tratamiento de información que le serán aplicables, la
+forma de acceder a las mismas y las características del Tratamiento que se
+pretende dar a los datos personales, como mínimo al momento de efectuar la
+recolección de los datos personales.
+
+### DEL DERECHO DE ACCESO
+
+La Universidad garantizará el derecho de acceso a los Titulares y a aquellas
+personas legitimadas para ejercer el derecho, poniendo a disposición de ellos
+sin costo alguno y de manera pormenorizada y detallada, los respectivos datos
+personales, al menos una vez al mes o cada vez que existan modificaciones
+sustanciales a las presentes directrices. Dicho acceso, en caso de ser
+posible, deberá permitir al Titular la posibilidad de conocer y actualizar en
+línea sus datos personales.
+
+### PROCEDIMIENTOS
+
+#### Atención de consultas y reclamos
+
+Los Titulares, o sus causahabientes podrán solicitar a través del correo
+electrónico usodedatos@.udla.edu.ec, la información personal del Titular que
+repose en cualquier base de datos y archivos de la Universidad.
+
+En cualquier caso, las consultas serán atendidas en un término máximo de diez
+(1O) días hábiles contados a partir de la fecha de su recibo. Cuando no fuere
+posible atender la consulta dentro de dicho término, se informará al
+interesado antes del vencimiento de los diez (1O) días, expresando los motivos
+de la demora y señalando la fecha en que se atenderá la consulta, la cual en
+ningún caso podrá superar los cinco (5) días hábiles siguientes al vencimiento
+del primer plazo.
+
+#### Reclamos
+
+El Titular o sus causahabientes que consideren que la información contenida en
+una base de datos debe ser objeto de corrección, actualización o supresión,
+podrán presentar un reclamo ante el Responsable del Tratamiento.
+
+En cualquier momento y de manera gratuita el Titular o su representante podrán
+solicitar a través de este correo electrónico la rectificación, actualización
+o supresión de sus datos personales, previa acreditación de su identidad.
+
+Los derechos de rectificación, actualización o supresión únicamente se podrán
+ejercer por:
+
+  * El Titular o sus causahabientes, previa acreditación de su identidad, o a través de instrumentos electrónicos que le permitan identificarse, a criterio de la Universidad.
+  * Su representante, previa acreditación de la representación.
+  * Cuando la solicitud sea formulada por persona distinta del Titular, deberá acreditarse en debida forma la personería o mandato para actuar; y en caso de no acreditar tal calidad, la solicitud se tendrá por no presentada.
+
+Asimismo, la solicitud de rectificación, actualización o supresión debe ser
+presentada a través del correo electrónico usodedatos@.udla.edu.ec y debe
+contener, como mínimo, la siguiente información:
+
+  * El nombre y domicilio del Titular o cualquier otro medio para recibir la respuesta.
+  * Los documentos que acrediten la identidad o la personalidad de su representante.
+  * La descripción clara y precisa de los datos personales respecto de los cuales el Titular busca ejercer alguno de los derechos.
+  * En el caso dado, presentar otros elementos o documentos que faciliten la localización de los datos personales.
+
+La Universidad tiene la obligación de rectificar y actualizar la información
+inexacta, incompleta o desactualizada a solicitud del Titular, de conformidad
+con el procedimiento y los términos señalados. En las solicitudes de
+rectificación y actualización de datos personales el Titular debe indicar las
+correcciones a realizar y aportar la documentación que avale su petición.
+
+El Titular de la información tiene el derecho, en todo momento, a solicitar a
+la Universidad, la supresión (eliminación) de sus datos personales cuando:
+
+  * Considere que los mismos no están siendo tratados conforme a los principios, deberes y obligaciones previstas en la normatividad vigente.
+  * Hayan dejado de ser necesarios o pertinentes para la finalidad para la cual fueron recabados.
+  * Se haya superado el periodo necesario para el cumplimiento de los fines para los que fueron registrados.
+
+Esta supresión implica la eliminación total o parcial de la información
+personal de acuerdo con lo solicitado por el Titular en los archivos, bases de
+datos o tratamientos realizados por la Universidad. Es importante tener en
+cuenta que el derecho de cancelación no es absoluto y el Responsable del
+Tratamiento puede negar el ejercicio del mismo cuando:
+
+  * El Titular tenga un deber legal o contractual de permanecer en la base de datos.
+  * La eliminación de datos obstaculice actuaciones judiciales o administrativas vinculadas a obligaciones fiscales, la investigación y persecución de delitos o la actualización de sanciones administrativas.
+  * Los datos sean necesarios para proteger los intereses jurídicamente tutelados del Titular; para realizar una acción en función del interés público, o para cumplir con una obligación legalmente adquirida por el Titular.
+
+* * *
+
+## TRANSFERENCIAS Y TRANSMISIONES INTERNACIONALES DE DATOS PERSONALES
+
+El Titular de la información autoriza expresamente que la totalidad de su
+información personal pueda ser transferida al exterior, sujeto a los
+requerimientos legales aplicables, en desarrollo de relaciones
+interinstitucionales.
+
+Sin perjuicio de la obligación de observar y mantener la confidencialidad de
+la información, la Universidad , tomará las medidas necesarias para que esos
+terceros conozcan y se comprometan a observar esta Política, bajo el entendido
+de que la información personal que reciban, únicamente podrá ser utilizada
+para asuntos directamente relacionados con las actividades propias de la
+relación con la Universidad , y solamente mientras ésta dure, y no podrá ser
+usada o destinada para propósito o fin diferente.
+
+La Universidad, también puede intercambiar Información Personal con
+autoridades gubernamentales o públicas de otro tipo (incluidas, entre otras
+autoridades judiciales o administrativas, autoridades fiscales y organismos de
+investigación penal, civil, administrativa, disciplinaria y fiscal), y
+terceros participantes en procedimientos legales civiles y sus contadores,
+auditores, abogados y otros asesores y representantes, porque es necesario o
+apropiado: (a) para cumplir con las leyes vigentes, incluidas las leyes
+distintas a las de su país de residencia; (b) para cumplir con procesos
+jurídicos ; (c) para responder las solicitudes de las autoridades públicas y
+del gobierno, y para responder las solicitudes de las autoridades públicas y
+del gobierno distintas a las de su país de residencia; (d) para hacer cumplir
+nuestros términos y condiciones; (e) para proteger nuestras operaciones; (f)
+para proteger nuestros derechos, privacidad, seguridad o propiedad, los suyos
+o los de terceros; y (g) obtener las indemnizaciones aplicables o limitar los
+daños y perjuicios que nos puedan afectar.
+
+* * *
+
+#### Maestrías
+
+#### Diplomados
+
+* * *
+
+Universidad de Las Américas
+
+**Copyright (C) 2020**
+
+### Validación de diplomas
+
+Verificar
+

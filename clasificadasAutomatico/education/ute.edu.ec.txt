@@ -1,0 +1,95 @@
+Fecha de recoleccion: 2021-08-26
+# Política de Privacidad de Aplicaciones Móviles de la Universidad UTE
+
+La Universidad UTE informa a los usuarios y público en general del tratamiento
+y usos a los que se someten los datos que recaban las aplicaciones móviles de
+dicha Universidad, para que de esta forma, puedan decidir, libre y
+voluntariamente, proporcionar la información requerida con el fin de acceder a
+los servicios de las aplicaciones UTE.
+
+## Legitimación
+
+La base legal para el tratamiento de sus datos es su consentimiento. Mediante
+el uso de la aplicación, usted acepta nuestro procesamiento de sus datos en
+los términos de esta Política de Privacidad.
+
+## Recopilación y uso de datos
+
+### a. Información proporcionada por el Usuario
+
+Para utilizar los servicios o acceder a los contenidos de las aplicaciones
+UTE, deberá proporcionar las credenciales de acceso a los sistemas de la
+Universidad UTE. Es decir al usar la aplicación, usted autoriza a la
+Universidad UTE a realizar las consultas pertinentes en los sistemas de
+gestión, los datos ingresados formarán parte de la base de datos de la
+Universidad UTE y se les dará el mismo tratamiento conforme a lo establecido
+en la normativa de la Universidad UTE.
+
+### b. Protección de datos personales
+
+Cómo principio general, las aplicaciones no comparten ni revelan información
+obtenida, excepto cuando haya sido autorizada por usted, o en los siguientes
+casos:
+
+• Cuando sea requerido por una autoridad o entidad competente y previo el
+cumplimiento del trámite legal correspondiente. • Cuando a juicio de esta
+aplicación, sea necesario para hacer cumplir estas políticas. • Para
+salvaguardar la integridad de los demás usuarios o de la aplicación.
+
+De conformidad con la ley ecuatoriana, tiene derecho a solicitar la
+actualización, rectificación o anulación de datos siguiendo los procedimientos
+establecidos por la Universidad UTE y las leyes del Ecuador.
+
+### c. Información recopilada automáticamente
+
+La aplicación puede recopilar cierta información automáticamente, incluyendo,
+pero no limitado a el tipo de dispositivo móvil que utilice, los dispositivos
+móviles de identificación única del dispositivo, la dirección IP de su
+dispositivo móvil, el sistema operativo móvil, el tipo de móvil navegadores de
+Internet que utiliza y la información sobre el modo de usar la aplicación.
+
+Los datos gestionados por la Universidad UTE tienen como único objetivo la
+prestación del servicio, la gestión de los servicios administrativos y la
+obtención de estadísticas de uso de la aplicación. Estos datos permanecen
+anónimos y NO permiten identificar al usuario, pero servirán para garantizar
+la correcta operación y funcionamiento.
+
+## Modificación de la Política de Privacidad
+
+La Universidad UTE se reserva la facultad de modificar la presente Política de
+Privacidad para adaptarla a cambios legislativos, jurisprudenciales o de
+interpretación conforme las leyes internas o constitucionales del país.
+Cualquier modificación será notificada con la debida antelación por la página
+de la Universidad UTE, el correo electrónico institucional y/o la misma
+aplicación.
+
+## Distribución de datos
+
+La aplicación de la Universidad UTE NO distribuye datos ni información a
+terceros.
+
+## Enlaces a terceros
+
+En el caso de enlaces a sitios web que no son operados ni controlados por
+Universidad UTE, será puntualmente informado. Existen enlaces externos en los
+que Universidad UTE no dispone de control alguno sobre dichos sitios; por lo
+cual, no somos responsables por el contenido de los mismos, tampoco tenemos
+control sobre la forma en que terceros recaban y usan su información personal.
+
+Seguramente estos sitios externos disponen de sus propias políticas de
+privacidad, mediante las cuales le explicarán cómo utilizan y comparten su
+información personal. Le recomendamos revisar detenidamente las políticas de
+privacidad antes de utilizar estos sitios web para estar seguro de que se
+encuentra conforme con la forma en la que su información personal se recopila
+y comparte.
+
+## Seguridad
+
+Siempre nos preocupamos por salvaguardar la confidencialidad de su
+información. Proveemos salvaguardas físicas, electrónicas y de procedimiento
+para proteger la información que procesamos y mantenemos, con el fin de
+proporcionar la máxima garantía de seguridad, confidencialidad e integridad de
+sus datos.
+
+© UTE.
+

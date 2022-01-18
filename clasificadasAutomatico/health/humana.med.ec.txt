@@ -1,0 +1,38 @@
+Fecha de recoleccion: 2021-08-26
+##  Pol�tica de Privacidad de Datos | mi.humana.med.ec
+
+Toda la informaci�n entregada ser� utilizada y protegida (datos del cliente).
+Cuando el cliente registre datos en este sitio web, estar� aceptando
+autom�ticamente las reglas de uso, protecci�n y seguridad que aqu� se
+mencionan.
+
+### 1\. Seguridad y Protecci�n de tus Datos Personales:
+
+La seguridad de los datos personales del cliente es prioridad para Medicina
+para el Ecuador MEDIECUADOR HUMANA S.A. (en adelante, �Humana S.A.�). El sitio
+_mi.humana.med.ec_ es una plataforma segura que cuenta con los certificados de
+seguridad (Secure HTTPS) requeridos para transacciones de datos sensibles. El
+usuario puede reconocer que la transacci�n de informaci�n se est� realizando
+bajo protocolos de seguridad comprobando el icono de llave o candado cerrado
+que aparece en la parte superiorizquierda del navegador.
+
+### 2\. Privacidad:
+
+Toda la informaci�n personal proporcionada por el usuario ser� de uso
+exclusivo de Humana S.A. para fines transaccionales, de contacto y
+comunicaci�n. Los mismos que ser�n almacenados en una base de datos.
+
+### 3\. �C�mo se obtiene la informaci�n?
+
+Al registrar los datos en el formulario el usuario permitir� la visualizaci�n
+y almacenamiento de la siguiente informaci�n personal: Nº de cedula / RUC, y
+Contraseña. El registro de dichos datos es necesario para poder cumplir con
+los requisitos tecnicos para mostrar la informacion del usuario.
+
+### 4\. �C�mo utilizamos la informaci�n del cliente?
+
+Utilizaremos la informaci�n del cliente para:
+
+  * Consulta en nuestra base de datos la informacion relativa a su perfil de usuario. 
+  * Mostrar la informacion que el usuario solicite sobre sus facturas, reembolsos, liquidaciones, pre-autorizaciones, retenciones, beneficios, prestaciones, carencias, estado de tramites, etc.
+
