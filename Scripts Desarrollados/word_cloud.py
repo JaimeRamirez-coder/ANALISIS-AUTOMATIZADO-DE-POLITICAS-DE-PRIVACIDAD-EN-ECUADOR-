@@ -130,7 +130,7 @@ word_cloud = WordCloud(mask=mask, background_color='white', contour_width=1, con
 word_cloud.to_file("./nube_privacidad3.png")
 
 
-# Copyright © 2021, 2022 Jaime Patricio Ramírez Ramírez.
+# Copyright © 2021, 2022 Jaime Ramírez.
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation
 
 
