@@ -165,6 +165,6 @@ model_display = gensimvis.prepare(ldamodel, corpus, dictionary, sort_topics=Fals
 pyLDAvis.save_html(model_display, 'ldaMexico.html')
 
 
-# Copyright © 2021, 2022 Jaime Patricio Ramírez Ramírez.
+# Copyright © 2021, 2022 Jaime Ramírez.
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation
 
